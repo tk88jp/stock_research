@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbrli:xbrl xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xbrli="http://www.xbrl.org/2003/instance" xmlns:jpdei_cor="http://disclosure.edinet-fsa.go.jp/taxonomy/jpdei/2013-08-31/jpdei_cor" xmlns:jpcrp-sbr_cor="http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp-sbr/2013-08-31/jpcrp-sbr_cor" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <link:schemaRef xlink:type="simple" xlink:href="jpcrp170000-sbr-001_E03276-000_2018-09-18_02_2018-10-02.xsd"/>
+  <xbrli:context id="FilingDateInstant">
+<xbrli:entity>
+<xbrli:identifier scheme="http://disclosure.edinet-fsa.go.jp">E03276-000</xbrli:identifier>
+</xbrli:entity>
+<xbrli:period>
+<xbrli:instant>2018-09-18</xbrli:instant>
+</xbrli:period>
+</xbrli:context>
+  <xbrli:unit id="pure">
+<xbrli:measure>xbrli:pure</xbrli:measure>
+</xbrli:unit>
+  <jpdei_cor:NumberOfSubmissionDEI contextRef="FilingDateInstant" unitRef="pure" decimals="0">2</jpdei_cor:NumberOfSubmissionDEI>
+  <jpcrp-sbr_cor:DocumentTitleCoverPage contextRef="FilingDateInstant">自己株券買付状況報告書(平成30年９月18日付け訂正報告書の添付インラインXBRL）</jpcrp-sbr_cor:DocumentTitleCoverPage>
+  <jpcrp-sbr_cor:ClauseOfStipulationCoverPage contextRef="FilingDateInstant">金融商品取引法第24条の６第１項</jpcrp-sbr_cor:ClauseOfStipulationCoverPage>
+  <jpcrp-sbr_cor:PlaceOfFilingCoverPage contextRef="FilingDateInstant">関東財務局長</jpcrp-sbr_cor:PlaceOfFilingCoverPage>
+  <jpcrp-sbr_cor:FilingDateCoverPage contextRef="FilingDateInstant">2018-09-18</jpcrp-sbr_cor:FilingDateCoverPage>
+  <jpcrp-sbr_cor:ReportingPeriodCoverPage contextRef="FilingDateInstant">自　平成30年８月１日　至　平成30年８月31日</jpcrp-sbr_cor:ReportingPeriodCoverPage>
+  <jpcrp-sbr_cor:CompanyNameCoverPage contextRef="FilingDateInstant">アールビバン株式会社</jpcrp-sbr_cor:CompanyNameCoverPage>
+  <jpcrp-sbr_cor:CompanyNameInEnglishCoverPage contextRef="FilingDateInstant">ART VIVANT CO.,LTD.</jpcrp-sbr_cor:CompanyNameInEnglishCoverPage>
+  <jpcrp-sbr_cor:TitleAndNameOfRepresentativeCoverPage contextRef="FilingDateInstant">代表取締役会長兼社長　野澤　克巳</jpcrp-sbr_cor:TitleAndNameOfRepresentativeCoverPage>
+  <jpcrp-sbr_cor:AddressOfRegisteredHeadquarterCoverPage contextRef="FilingDateInstant">東京都品川区東品川四丁目13番14号</jpcrp-sbr_cor:AddressOfRegisteredHeadquarterCoverPage>
+  <jpcrp-sbr_cor:TelephoneNumberAddressOfRegisteredHeadquarterCoverPage contextRef="FilingDateInstant">03－5783－7171（代表）</jpcrp-sbr_cor:TelephoneNumberAddressOfRegisteredHeadquarterCoverPage>
+  <jpcrp-sbr_cor:NameOfContactPersonCoverPage contextRef="FilingDateInstant">取締役管理部長　樋口　弘司</jpcrp-sbr_cor:NameOfContactPersonCoverPage>
+  <jpcrp-sbr_cor:NearestPlaceOfContactCoverPage contextRef="FilingDateInstant">東京都品川区東品川四丁目13番14号</jpcrp-sbr_cor:NearestPlaceOfContactCoverPage>
+  <jpcrp-sbr_cor:TelephoneNumberNearestPlaceOfContactCoverPage contextRef="FilingDateInstant">03－5783－7171（代表）</jpcrp-sbr_cor:TelephoneNumberNearestPlaceOfContactCoverPage>
+  <jpcrp-sbr_cor:NameOfContactPersonNearestPlaceOfContactCoverPage contextRef="FilingDateInstant">取締役管理部長　樋口　弘司</jpcrp-sbr_cor:NameOfContactPersonNearestPlaceOfContactCoverPage>
+  <jpcrp-sbr_cor:PlaceForPublicInspectionCoverPageTextBlock contextRef="FilingDateInstant">
+&lt;p style="margin-top: 3px; text-align: left"&gt;
+&lt;span style="font-family: &amp;apos;MS Mincho&amp;apos;; font-size: 12px"&gt;株式会社東京証券取引所&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="margin-bottom: 3px; text-align: left"&gt;
+&lt;span style="font-family: &amp;apos;MS Mincho&amp;apos;; font-size: 12px"&gt;（東京都中央区日本橋兜町２番１号）&lt;/span&gt;
+&lt;/p&gt;
+</jpcrp-sbr_cor:PlaceForPublicInspectionCoverPageTextBlock>
+  <jpdei_cor:EDINETCodeDEI contextRef="FilingDateInstant">E03276</jpdei_cor:EDINETCodeDEI>
+  <jpdei_cor:FundCodeDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:SecurityCodeDEI contextRef="FilingDateInstant">75230</jpdei_cor:SecurityCodeDEI>
+  <jpdei_cor:FilerNameInJapaneseDEI contextRef="FilingDateInstant">アールビバン株式会社</jpdei_cor:FilerNameInJapaneseDEI>
+  <jpdei_cor:FilerNameInEnglishDEI contextRef="FilingDateInstant">ART VIVANT CO.,LTD.</jpdei_cor:FilerNameInEnglishDEI>
+  <jpdei_cor:FundNameInJapaneseDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:FundNameInEnglishDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:CabinetOfficeOrdinanceDEI contextRef="FilingDateInstant">企業内容等の開示に関する内閣府令</jpdei_cor:CabinetOfficeOrdinanceDEI>
+  <jpdei_cor:DocumentTypeDEI contextRef="FilingDateInstant">第十七号様式</jpdei_cor:DocumentTypeDEI>
+  <jpdei_cor:AccountingStandardsDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:WhetherConsolidatedFinancialStatementsArePreparedDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:IndustryCodeWhenConsolidatedFinancialStatementsArePreparedInAccordanceWithIndustrySpecificRegulationsDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:IndustryCodeWhenFinancialStatementsArePreparedInAccordanceWithIndustrySpecificRegulationsDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:CurrentFiscalYearStartDateDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:CurrentPeriodEndDateDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:TypeOfCurrentPeriodDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:CurrentFiscalYearEndDateDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:PreviousFiscalYearStartDateDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:ComparativePeriodEndDateDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:PreviousFiscalYearEndDateDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:NextFiscalYearStartDateDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:EndDateOfQuarterlyOrSemiAnnualPeriodOfNextFiscalYearDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:AmendmentFlagDEI contextRef="FilingDateInstant">true</jpdei_cor:AmendmentFlagDEI>
+  <jpdei_cor:IdentificationOfDocumentSubjectToAmendmentDEI contextRef="FilingDateInstant">S100E4P8</jpdei_cor:IdentificationOfDocumentSubjectToAmendmentDEI>
+  <jpdei_cor:ReportAmendmentFlagDEI contextRef="FilingDateInstant">true</jpdei_cor:ReportAmendmentFlagDEI>
+  <jpdei_cor:XBRLAmendmentFlagDEI contextRef="FilingDateInstant">false</jpdei_cor:XBRLAmendmentFlagDEI>
+  <jpcrp-sbr_cor:ClassesOfSharesTextBlock contextRef="FilingDateInstant">&lt;span style="font-family: &amp;apos;MS Gothic&amp;apos;; font-size: 14px"&gt;株式の種類&lt;/span&gt;　　　普通株式</jpcrp-sbr_cor:ClassesOfSharesTextBlock>
+  <jpcrp-sbr_cor:AcquisitionsByResolutionOfShareholdersMeetingNA contextRef="FilingDateInstant">　該当事項はありません。</jpcrp-sbr_cor:AcquisitionsByResolutionOfShareholdersMeetingNA>
+  <jpcrp-sbr_cor:AcquisitionsByResolutionOfBoardOfDirectorsMeetingTextBlock contextRef="FilingDateInstant">
+&lt;h4&gt;（２）【取締役会決議による取得の状況】&lt;/h4&gt;
+&lt;div&gt;
+&lt;table style="table-layout: fixed; width: 648px" cellpadding="0" cellspacing="0"&gt;
+&lt;colgroup&gt;
+&lt;col style="width: 648px"/&gt;
+&lt;/colgroup&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="border-left: 1px solid transparent; border-right: 1px solid transparent"/&gt;
+&lt;/tr&gt;
+&lt;tr style="min-height: 1.33000004291534px"&gt;
+&lt;td style="vertical-align: middle"&gt;
+&lt;p style="text-align: right"&gt;平成30年８月31日現在&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;p style="line-height: 1.33000004291534px; text-align: left"&gt; &lt;/p&gt;
+&lt;div&gt;
+&lt;table style="table-layout: fixed; width: 648px" cellpadding="0" cellspacing="0"&gt;
+&lt;colgroup&gt;
+&lt;col style="width: 312px"/&gt;
+&lt;col style="width: 96px"/&gt;
+&lt;col style="width: 96px"/&gt;
+&lt;col style="width: 144px"/&gt;
+&lt;/colgroup&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td style="width: 311px; border-left: 1px solid transparent; border-right: 1px solid transparent"/&gt;
+&lt;td style="width: 95px; border-left: 1px solid transparent; border-right: 1px solid transparent"/&gt;
+&lt;td style="width: 95px; border-left: 1px solid transparent; border-right: 1px solid transparent"/&gt;
+&lt;td style="border-left: 1px solid transparent; border-right: 1px solid transparent"/&gt;
+&lt;/tr&gt;
+&lt;tr style="min-height: 26.6700000762939px"&gt;
+&lt;td style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; vertical-align: middle"&gt;
+&lt;p style="line-height: 13.3299999237061px; text-align: center"&gt;区分&lt;/p&gt;
+&lt;/td&gt;
+&lt;td colspan="2" style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; vertical-align: middle"&gt;
+&lt;p style="line-height: 13.3299999237061px; text-align: center"&gt;株式数（株）&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; vertical-align: middle"&gt;
+&lt;p style="line-height: 13.3299999237061px; text-align: center"&gt;価額の総額（円）&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr style="min-height: 26.6700000762939px"&gt;
+&lt;td style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; vertical-align: middle"&gt;
+&lt;p style="margin-left: 6px; margin-right: 4px; text-align: left"&gt;取締役会（平成30年８月27日）での決議状況&lt;/p&gt;
+&lt;p style="margin-left: 6px; margin-right: 4px; text-align: left"&gt;（取得期間　平成30年９月３日～平成30年９月28日）&lt;/p&gt;
+&lt;/td&gt;
+&lt;td colspan="2" style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px none #000000; vertical-align: middle"&gt;
+&lt;p style="margin-right: 12px; text-align: right"&gt;300,000&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; vertical-align: middle"&gt;
+&lt;p style="margin-right: 12px; text-align: right"&gt;200,000,000&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="min-height: 26.6700000762939px"&gt;
+&lt;td style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; text-align: left; vertical-align: middle"&gt;
+&lt;p style="margin-left: 6px; margin-right: 4px; text-align: left"&gt;報告月における取得自己株式（取得日）&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; vertical-align: middle"&gt;
+&lt;p style="text-align: center"&gt;
+&lt;span style="font-weight: normal"&gt;―&lt;/span&gt;
+&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; vertical-align: middle"&gt;
+&lt;p style="margin-right: 12px; text-align: right"&gt;―&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; vertical-align: middle"&gt;
+&lt;p style="margin-right: 12px; text-align: right"&gt;―&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="min-height: 26.6700000762939px"&gt;
+&lt;td style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; vertical-align: middle"&gt;
+&lt;p style="text-align: center"&gt;計&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; vertical-align: middle"&gt;
+&lt;p style="text-align: center"&gt;―&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; vertical-align: middle"&gt;
+&lt;p style="margin-right: 12px; text-align: right"&gt;―&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; vertical-align: middle"&gt;
+&lt;p style="margin-right: 12px; text-align: right"&gt;―&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="min-height: 26.6700000762939px"&gt;
+&lt;td style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; text-align: left; vertical-align: middle"&gt;
+&lt;p style="margin-left: 6px; margin-right: 4px; text-align: left"&gt;報告月末現在の累計取得自己株式&lt;/p&gt;
+&lt;/td&gt;
+&lt;td colspan="2" style="border-left: 1px solid #000000; border-top: 1px none #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; vertical-align: middle"&gt;
+&lt;p style="margin-right: 12px; text-align: right"&gt;―&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; vertical-align: middle"&gt;
+&lt;p style="margin-right: 12px; text-align: right"&gt;―&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="min-height: 26.6700000762939px"&gt;
+&lt;td style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; text-align: left; vertical-align: middle"&gt;
+&lt;p style="margin-left: 6px; margin-right: 4px; text-align: left"&gt;自己株式取得の進捗状況（％）&lt;/p&gt;
+&lt;/td&gt;
+&lt;td colspan="2" style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; vertical-align: middle"&gt;
+&lt;p style="margin-right: 12px; text-align: right"&gt;―&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; vertical-align: middle"&gt;
+&lt;p style="margin-right: 12px; text-align: right"&gt;―&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;p style="text-align: left"&gt;（注）取得自己株式は約定ベースで記載しております。&lt;/p&gt;
+</jpcrp-sbr_cor:AcquisitionsByResolutionOfBoardOfDirectorsMeetingTextBlock>
+  <jpcrp-sbr_cor:DisposalsOfTreasurySharesTextBlock contextRef="FilingDateInstant">
+&lt;h3&gt;２【処理状況】&lt;/h3&gt;
+&lt;p style="line-height: 1.33000004291534px; text-align: left"&gt; &lt;/p&gt;
+&lt;p style="text-align: left"&gt;　　　　該当事項はありません&lt;/p&gt;
+</jpcrp-sbr_cor:DisposalsOfTreasurySharesTextBlock>
+  <jpcrp-sbr_cor:HoldingOfTreasurySharesTextBlock contextRef="FilingDateInstant">
+&lt;h3&gt;３【保有状況】&lt;/h3&gt;
+&lt;div&gt;
+&lt;table style="table-layout: fixed; width: 648px" cellpadding="0" cellspacing="0"&gt;
+&lt;colgroup&gt;
+&lt;col style="width: 648px"/&gt;
+&lt;/colgroup&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="border-left: 1px solid transparent; border-right: 1px solid transparent"/&gt;
+&lt;/tr&gt;
+&lt;tr style="min-height: 1.33000004291534px"&gt;
+&lt;td style="vertical-align: middle"&gt;
+&lt;p style="text-align: right"&gt;平成30年８月31日現在&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;p style="line-height: 1.33000004291534px; text-align: left"&gt; &lt;/p&gt;
+&lt;div&gt;
+&lt;table style="table-layout: fixed; width: 648px" cellpadding="0" cellspacing="0"&gt;
+&lt;colgroup&gt;
+&lt;col style="width: 324px"/&gt;
+&lt;col style="width: 324px"/&gt;
+&lt;/colgroup&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td style="width: 323px; border-left: 1px solid transparent; border-right: 1px solid transparent"/&gt;
+&lt;td style="border-left: 1px solid transparent; border-right: 1px solid transparent"/&gt;
+&lt;/tr&gt;
+&lt;tr style="min-height: 26.6700000762939px"&gt;
+&lt;td style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; vertical-align: middle"&gt;
+&lt;p style="line-height: 13.3299999237061px; text-align: center"&gt;報告月末日における保有状況&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; vertical-align: middle"&gt;
+&lt;p style="line-height: 13.3299999237061px; text-align: center"&gt;株式数（株）&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr style="min-height: 26.6700000762939px"&gt;
+&lt;td style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; vertical-align: middle"&gt;
+&lt;p style="margin-left: 12px; margin-right: 10px; text-align: left"&gt;発行済株式総数&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; vertical-align: middle"&gt;
+&lt;p style="margin-right: 24px; text-align: right"&gt;15,463,816&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="min-height: 26.6700000762939px"&gt;
+&lt;td style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; vertical-align: middle"&gt;
+&lt;p style="margin-left: 12px; margin-right: 10px; text-align: left"&gt;保有自己株式数&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border-left: 1px solid #000000; border-top: 1px solid #000000; border-right: 1px solid #000000; border-bottom: 1px solid #000000; vertical-align: middle"&gt;
+&lt;p style="margin-right: 24px; text-align: right"&gt;2,681,612&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;p style="line-height: 20px; text-align: left; text-indent: 12px"&gt;（注）保有自己株式数には、単元未満株式の買取請求により取得した自己株式を含んでおります。&lt;/p&gt;
+&lt;p style="text-align: left"&gt; &lt;/p&gt;
+</jpcrp-sbr_cor:HoldingOfTreasurySharesTextBlock>
+</xbrli:xbrl>

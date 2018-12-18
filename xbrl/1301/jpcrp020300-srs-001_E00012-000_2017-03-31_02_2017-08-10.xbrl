@@ -1,0 +1,1015 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbrli:xbrl xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:jpcrp020300-srs_E00012-000="http://disclosure.edinet-fsa.go.jp/jpcrp020300/srs/001/E00012-000/2017-03-31/02/2017-08-10" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:jpcrp_cor="http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp/2017-02-28/jpcrp_cor" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xbrli="http://www.xbrl.org/2003/instance" xmlns:jpdei_cor="http://disclosure.edinet-fsa.go.jp/taxonomy/jpdei/2013-08-31/jpdei_cor">
+  <link:schemaRef xlink:type="simple" xlink:href="jpcrp020300-srs-001_E00012-000_2017-03-31_02_2017-08-10.xsd"/>
+  <xbrli:context id="FilingDateInstant">
+<xbrli:entity>
+<xbrli:identifier scheme="http://disclosure.edinet-fsa.go.jp">E00012-000</xbrli:identifier>
+</xbrli:entity>
+<xbrli:period>
+<xbrli:instant>2017-08-10</xbrli:instant>
+</xbrli:period>
+</xbrli:context>
+  <xbrli:unit id="pure">
+<xbrli:measure>xbrli:pure</xbrli:measure>
+</xbrli:unit>
+  <jpdei_cor:NumberOfSubmissionDEI contextRef="FilingDateInstant" unitRef="pure" decimals="0">2</jpdei_cor:NumberOfSubmissionDEI>
+  <jpcrp_cor:DocumentTitleCoverPage contextRef="FilingDateInstant">有価証券届出書（平成29年８月10日付け訂正届出書の添付インラインXBRL）</jpcrp_cor:DocumentTitleCoverPage>
+  <jpcrp_cor:PlaceOfFilingCoverPage contextRef="FilingDateInstant">関東財務局長</jpcrp_cor:PlaceOfFilingCoverPage>
+  <jpcrp_cor:FilingDateCoverPage contextRef="FilingDateInstant">2017-08-04</jpcrp_cor:FilingDateCoverPage>
+  <jpcrp_cor:CompanyNameCoverPage contextRef="FilingDateInstant">株式会社極洋</jpcrp_cor:CompanyNameCoverPage>
+  <jpcrp_cor:CompanyNameInEnglishCoverPage contextRef="FilingDateInstant">KYOKUYOU CO.,LTD.</jpcrp_cor:CompanyNameInEnglishCoverPage>
+  <jpcrp_cor:TitleAndNameOfRepresentativeCoverPage contextRef="FilingDateInstant">代表取締役社長　今 井 賢 司</jpcrp_cor:TitleAndNameOfRepresentativeCoverPage>
+  <jpcrp_cor:AddressOfRegisteredHeadquarterCoverPage contextRef="FilingDateInstant">東京都港区赤坂三丁目３番５号</jpcrp_cor:AddressOfRegisteredHeadquarterCoverPage>
+  <jpcrp_cor:TelephoneNumberAddressOfRegisteredHeadquarterCoverPage contextRef="FilingDateInstant">03(5545)0703</jpcrp_cor:TelephoneNumberAddressOfRegisteredHeadquarterCoverPage>
+  <jpcrp_cor:NameOfContactPersonAddressOfRegisteredHeadquarterCoverPage contextRef="FilingDateInstant">取締役企画部長　木 山　修 一</jpcrp_cor:NameOfContactPersonAddressOfRegisteredHeadquarterCoverPage>
+  <jpcrp_cor:NearestPlaceOfContactCoverPage contextRef="FilingDateInstant">東京都港区赤坂三丁目３番５号</jpcrp_cor:NearestPlaceOfContactCoverPage>
+  <jpcrp_cor:TelephoneNumberNearestPlaceOfContactCoverPage contextRef="FilingDateInstant">03(5545)0703</jpcrp_cor:TelephoneNumberNearestPlaceOfContactCoverPage>
+  <jpcrp_cor:NameOfContactPersonNearestPlaceOfContactCoverPage contextRef="FilingDateInstant">取締役企画部長　木 山　修 一</jpcrp_cor:NameOfContactPersonNearestPlaceOfContactCoverPage>
+  <jpcrp_cor:TypesOfSecuritiesToRegisterForOfferingOrDistributionCoverPage contextRef="FilingDateInstant">株式</jpcrp_cor:TypesOfSecuritiesToRegisterForOfferingOrDistributionCoverPage>
+  <jpcrp_cor:AmountToRegisterForOfferingOrDistributionCoverPageTextBlock contextRef="FilingDateInstant">
+&lt;p class="smt_tblL" style="padding-left:0pt;padding-right:0pt;line-height:15pt;"&gt;その他の者に対する割当　149,264,570円&lt;/p&gt;</jpcrp_cor:AmountToRegisterForOfferingOrDistributionCoverPageTextBlock>
+  <jpcrp_cor:MattersSpecificToStabilizingOperationCoverPageNA contextRef="FilingDateInstant">該当事項はありません。</jpcrp_cor:MattersSpecificToStabilizingOperationCoverPageNA>
+  <jpcrp_cor:PlaceForPublicInspectionCoverPageTextBlock contextRef="FilingDateInstant">
+&lt;p class="smt_tblL" style="text-align:justify;padding-left:0pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;"&gt;株式会社東京証券取引所&lt;/p&gt;
+&lt;p class="smt_tblL" style="text-align:justify;padding-left:0pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;"&gt;(東京都中央区日本橋兜町２番１号)&lt;/p&gt;</jpcrp_cor:PlaceForPublicInspectionCoverPageTextBlock>
+  <jpdei_cor:EDINETCodeDEI contextRef="FilingDateInstant">E00012</jpdei_cor:EDINETCodeDEI>
+  <jpdei_cor:FundCodeDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:SecurityCodeDEI contextRef="FilingDateInstant">13010</jpdei_cor:SecurityCodeDEI>
+  <jpdei_cor:FilerNameInJapaneseDEI contextRef="FilingDateInstant">株式会社極洋</jpdei_cor:FilerNameInJapaneseDEI>
+  <jpdei_cor:FilerNameInEnglishDEI contextRef="FilingDateInstant">KYOKUYO CO.,LTD.</jpdei_cor:FilerNameInEnglishDEI>
+  <jpdei_cor:FundNameInJapaneseDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:FundNameInEnglishDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:CabinetOfficeOrdinanceDEI contextRef="FilingDateInstant">企業内容等の開示に関する内閣府令</jpdei_cor:CabinetOfficeOrdinanceDEI>
+  <jpdei_cor:DocumentTypeDEI contextRef="FilingDateInstant">第二号の三様式</jpdei_cor:DocumentTypeDEI>
+  <jpdei_cor:AccountingStandardsDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:WhetherConsolidatedFinancialStatementsArePreparedDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:IndustryCodeWhenConsolidatedFinancialStatementsArePreparedInAccordanceWithIndustrySpecificRegulationsDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:IndustryCodeWhenFinancialStatementsArePreparedInAccordanceWithIndustrySpecificRegulationsDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:CurrentFiscalYearStartDateDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:CurrentPeriodEndDateDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:TypeOfCurrentPeriodDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:CurrentFiscalYearEndDateDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:PreviousFiscalYearStartDateDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:ComparativePeriodEndDateDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:PreviousFiscalYearEndDateDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:NextFiscalYearStartDateDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:EndDateOfQuarterlyOrSemiAnnualPeriodOfNextFiscalYearDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:AmendmentFlagDEI contextRef="FilingDateInstant">true</jpdei_cor:AmendmentFlagDEI>
+  <jpdei_cor:IdentificationOfDocumentSubjectToAmendmentDEI contextRef="FilingDateInstant">S100B0AR</jpdei_cor:IdentificationOfDocumentSubjectToAmendmentDEI>
+  <jpdei_cor:ReportAmendmentFlagDEI contextRef="FilingDateInstant">true</jpdei_cor:ReportAmendmentFlagDEI>
+  <jpdei_cor:XBRLAmendmentFlagDEI contextRef="FilingDateInstant">false</jpdei_cor:XBRLAmendmentFlagDEI>
+  <jpcrp_cor:NewIssuanceOfSharesTextBlock contextRef="FilingDateInstant">
+&lt;h3 class="smt_head2"&gt;１ 【新規発行株式】&lt;/h3&gt;
+&lt;p class="smt_unitR"&gt; &lt;/p&gt;
+&lt;div class="tbld" style="margin-left:0pt;margin-right:0pt;margin-top:0pt;margin-bottom:0pt;"&gt;
+&lt;table cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:solid 0pt #000000;width:468pt;"&gt;
+&lt;colgroup&gt;
+&lt;col style="width:115.5pt;min-width:115.5pt;"/&gt;
+&lt;col style="width:129pt;min-width:129pt;"/&gt;
+&lt;col style="width:223.5pt;min-width:223.5pt;"/&gt;
+&lt;/colgroup&gt;
+&lt;tr style="height:22.5pt"&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblC" style="text-align:center;padding-left:0pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;種類&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblC" style="text-align:center;padding-left:0pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;発行数&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblC" style="text-align:center;padding-left:0pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;内容&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height:33.8pt"&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblL" style="text-align:justify;padding-left:4.5pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;普通株式&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR"&gt;47,918株&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblL" style="text-align:justify;padding-left:4.5pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;完全議決権株式であり、権利内容に何ら限定のない当社における標準となる株式であります。&lt;/p&gt;
+&lt;p class="smt_tblL" style="text-align:justify;padding-left:4.5pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;なお、単元株式数は100株であります。&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;p style="clear:both; line-height:0.75pt; width:100%; font-size:0.75pt;"&gt; &lt;/p&gt;
+&lt;/div&gt;
+&lt;p class="smt_annoNum1"&gt;(注) １．平成29年８月４日開催の取締役会決議によります。&lt;/p&gt;
+&lt;p class="smt_annoNum2" style="text-align:left;padding-left:49.5pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:-18pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:12pt;"&gt;２．本有価証券届出書の対象とした募集は、会社法(平成17年法律第86号)第199条第１項の規定に基づいて、当社の保有する当社普通株式による自己株式処分(以下、「本自己株式処分」といいます。)により行われるものであり、金融商品取引法第二条に規定する定義に関する内閣府令第９条第１号に定める売付けの申込み又は買付けの申込みの勧誘となります。&lt;/p&gt;
+&lt;p class="smt_annoNum2" style="text-align:left;padding-left:49.5pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:-18pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:12pt;"&gt;３．振替機関の名称及び住所は次のとおりであります。&lt;/p&gt;
+&lt;p class="smt_annoNum2" style="text-justify:inter-ideograph;text-indent:0pt;"&gt;名称：株式会社証券保管振替機構&lt;/p&gt;
+&lt;p class="smt_annoNum2" style="text-align:left;padding-left:49.5pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:12pt;"&gt;住所：東京都中央区日本橋茅場町二丁目１番１号&lt;/p&gt;
+&lt;p class="smt_text6"&gt; &lt;/p&gt;</jpcrp_cor:NewIssuanceOfSharesTextBlock>
+  <jpcrp_cor:MethodOfPublicOfferingTextBlock contextRef="FilingDateInstant">
+&lt;h4 class="smt_head3"&gt;(1) 【募集の方法】&lt;/h4&gt;
+&lt;p class="smt_unitR"&gt; &lt;/p&gt;
+&lt;div class="tbld" style="margin-left:0pt;margin-right:0pt;margin-top:0pt;margin-bottom:0pt;"&gt;
+&lt;table cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:solid 0pt #000000;width:468.1pt;"&gt;
+&lt;colgroup&gt;
+&lt;col style="width:130.5pt;min-width:130.5pt;"/&gt;
+&lt;col style="width:82.5pt;min-width:82.5pt;"/&gt;
+&lt;col style="width:127.5pt;min-width:127.5pt;"/&gt;
+&lt;col style="width:127.6pt;min-width:127.6pt;"/&gt;
+&lt;/colgroup&gt;
+&lt;tr style="height:22.5pt"&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblC" style="text-align:center;padding-left:0pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;区分&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblC" style="text-align:center;padding-left:0pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;発行数&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblC" style="text-align:center;padding-left:0pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;発行価額の総額(円)&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblC" style="text-align:center;padding-left:0pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;資本組入額の総額(円)&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height:22.5pt"&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblL" style="text-align:justify;padding-left:4.5pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;株主割当&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR" style="text-align:right;padding-left:0pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;―&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR" style="text-align:right;padding-left:0pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;―&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR" style="text-align:right;padding-left:0pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;―&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height:22.5pt"&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblL" style="text-align:justify;padding-left:4.5pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;その他の者に対する割当&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR" style="text-align:right;padding-left:0pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;47,918株&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR" style="text-align:right;padding-left:0pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;149,264,570&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR" style="text-align:right;padding-left:0pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;―&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height:22.5pt"&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblL" style="text-align:justify;padding-left:4.5pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;一般募集&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR" style="text-align:right;padding-left:0pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;―&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR" style="text-align:right;padding-left:0pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;―&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR" style="text-align:right;padding-left:0pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;―&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height:22.5pt"&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblC" style="text-align:center;padding-left:0pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;計(総発行株式)&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR" style="text-align:right;padding-left:0pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;47,918株&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR" style="text-align:right;padding-left:0pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;149,264,570&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR" style="text-align:right;padding-left:0pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;―&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;p style="clear:both; line-height:0.75pt; width:100%; font-size:0.75pt;"&gt; &lt;/p&gt;
+&lt;/div&gt;
+&lt;p class="smt_annoNum1"&gt;(注) １．第三者割当の方法によります。&lt;/p&gt;
+&lt;p class="smt_annoNum2" style="text-align:left;padding-left:49.5pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:-18pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:12pt;"&gt;２．発行価額の総額は、本自己株式処分に係る会社法上の払込金額の総額であります。なお、本有価証券届出書の対象とした募集は、自己株式処分により行われるものであるため、払込金額は資本組入れされません。&lt;/p&gt;
+&lt;p class="smt_text6"&gt; &lt;/p&gt;</jpcrp_cor:MethodOfPublicOfferingTextBlock>
+  <jpcrp_cor:TermsOfPublicOfferingNewIssuanceOfSharesTextBlock contextRef="FilingDateInstant">
+&lt;h4 class="smt_head3"&gt;(2) 【募集の条件】&lt;/h4&gt;
+&lt;p class="smt_unitR"&gt; &lt;/p&gt;
+&lt;div class="tbld" style="margin-left:0pt;margin-right:0pt;margin-top:0pt;margin-bottom:0pt;"&gt;
+&lt;table cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:solid 0pt #000000;width:468pt;"&gt;
+&lt;colgroup&gt;
+&lt;col style="width:64.5pt;min-width:64.5pt;"/&gt;
+&lt;col style="width:64.5pt;min-width:64.5pt;"/&gt;
+&lt;col style="width:64.5pt;min-width:64.5pt;"/&gt;
+&lt;col style="width:105pt;min-width:105pt;"/&gt;
+&lt;col style="width:64.5pt;min-width:64.5pt;"/&gt;
+&lt;col style="width:105pt;min-width:105pt;"/&gt;
+&lt;/colgroup&gt;
+&lt;tr style="height:22.5pt"&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblC" style="text-align:center;padding-left:0pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;発行価格&lt;/p&gt;
+&lt;p class="smt_tblC" style="text-align:center;padding-left:0pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;(円)&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblC" style="text-align:center;padding-left:0pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;資本組入額&lt;/p&gt;
+&lt;p class="smt_tblC" style="text-align:center;padding-left:0pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;(円)&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblC" style="text-align:center;padding-left:0pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;申込株数単位&lt;/p&gt;
+&lt;p class="smt_tblC" style="text-align:center;padding-left:0pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;(株)&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblC" style="text-align:center;padding-left:0pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;申込期間&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblC" style="text-align:center;padding-left:0pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;申込証拠金&lt;/p&gt;
+&lt;p class="smt_tblC" style="text-align:center;padding-left:0pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;(円)&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblC" style="text-align:center;padding-left:0pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;払込期日&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height:22.5pt"&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR"&gt;3,115&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR" style="text-align:right;padding-left:0pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;―&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR" style="text-align:right;padding-left:0pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;1&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblC" style="text-align:center;padding-left:0pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;平成29年８月21日&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR" style="text-align:right;padding-left:0pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;―&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblC" style="text-align:center;padding-left:0pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;平成29年８月21日&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;p style="clear:both; line-height:0.75pt; width:100%; font-size:0.75pt;"&gt; &lt;/p&gt;
+&lt;/div&gt;
+&lt;p class="smt_annoNum1"&gt;(注) １．本有価証券届出書の効力発生後に締結する募集株式の総数引受契約に基づく第三者割当の方法により行うものとし、一般募集は行いません。&lt;/p&gt;
+&lt;p class="smt_annoNum2" style="text-align:left;padding-left:49.5pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:-18pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:12pt;"&gt;２．発行価格は、本自己株式処分に係る会社法上の払込金額であります。なお、本有価証券届出書の対象とした募集は、自己株式処分により行われるものであるため、払込金額は資本組入れされません。&lt;/p&gt;
+&lt;p class="smt_annoNum2" style="text-align:left;padding-left:49.5pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:-18pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:12pt;"&gt;３．本有価証券届出書の効力発生後、申込期間内に割当予定先との間で当該株式の「株式総数引受契約」を締結しない場合は、当該株式に係る割当ては行われないこととなります。&lt;/p&gt;
+&lt;p class="smt_annoNum2" style="text-align:left;padding-left:49.5pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:-18pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:12pt;"&gt;４．申込みおよび払込みの方法は、本有価証券届出書の効力発生後、申込期間内に当該株式の「株式総数引受契約」を締結し、払込期日までに後記「(4) 払込取扱場所」へ発行価額の総額を払込むものとします。&lt;/p&gt;
+&lt;p class="smt_text6"&gt; &lt;/p&gt;</jpcrp_cor:TermsOfPublicOfferingNewIssuanceOfSharesTextBlock>
+  <jpcrp_cor:PlaceForApplicationTextBlock contextRef="FilingDateInstant">
+&lt;p style="page-break-before:always; line-height:0.75pt; width:100%; font-size:0.75pt;"&gt; &lt;/p&gt;
+&lt;h4 class="smt_head3"&gt;(3) 【申込取扱場所】&lt;/h4&gt;
+&lt;p class="smt_unitR"&gt; &lt;/p&gt;
+&lt;div class="tbld" style="text-align:left;"&gt;
+&lt;table cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:solid 0pt #000000;width:467.8pt;" class="align_left"&gt;
+&lt;colgroup&gt;
+&lt;col style="width:233.9pt;min-width:233.9pt;"/&gt;
+&lt;col style="width:233.9pt;min-width:233.9pt;"/&gt;
+&lt;/colgroup&gt;
+&lt;tr style="height:22.7pt"&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-bottom-style:solid;border-bottom-width:0.75pt;border-left-style:solid;border-left-width:0.75pt;border-right-style:solid;border-right-width:0.75pt;"&gt;
+&lt;p class="smt_tblC"&gt;店名&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-bottom-style:solid;border-bottom-width:0.75pt;border-left-style:solid;border-left-width:0.75pt;border-right-style:solid;border-right-width:0.75pt;"&gt;
+&lt;p class="smt_tblC"&gt;所在地&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height:22.7pt"&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-bottom-style:solid;border-bottom-width:0.75pt;border-left-style:solid;border-left-width:0.75pt;border-right-style:solid;border-right-width:0.75pt;"&gt;
+&lt;p class="smt_tblL"&gt;株式会社極洋&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-bottom-style:solid;border-bottom-width:0.75pt;border-left-style:solid;border-left-width:0.75pt;border-right-style:solid;border-right-width:0.75pt;"&gt;
+&lt;p class="smt_tblL"&gt;東京都港区赤坂三丁目３番５号&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;p style="clear:both; line-height:0.75pt; width:100%; font-size:0.75pt;"&gt; &lt;/p&gt;
+&lt;/div&gt;
+&lt;p class="smt_text6"&gt; &lt;/p&gt;</jpcrp_cor:PlaceForApplicationTextBlock>
+  <jpcrp_cor:PlaceForPaymentTextBlock contextRef="FilingDateInstant">
+&lt;h4 class="smt_head3"&gt;(4) 【払込取扱場所】&lt;/h4&gt;
+&lt;p class="smt_unitR"&gt; &lt;/p&gt;
+&lt;div class="tbld" style="text-align:left;"&gt;
+&lt;table cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:solid 0pt #000000;width:467.8pt;" class="align_left"&gt;
+&lt;colgroup&gt;
+&lt;col style="width:233.9pt;min-width:233.9pt;"/&gt;
+&lt;col style="width:233.9pt;min-width:233.9pt;"/&gt;
+&lt;/colgroup&gt;
+&lt;tr style="height:22.7pt"&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-bottom-style:solid;border-bottom-width:0.75pt;border-left-style:solid;border-left-width:0.75pt;border-right-style:solid;border-right-width:0.75pt;"&gt;
+&lt;p class="smt_tblC"&gt;店名&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-bottom-style:solid;border-bottom-width:0.75pt;border-left-style:solid;border-left-width:0.75pt;border-right-style:solid;border-right-width:0.75pt;"&gt;
+&lt;p class="smt_tblC"&gt;所在地&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height:22.7pt"&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-bottom-style:solid;border-bottom-width:0.75pt;border-left-style:solid;border-left-width:0.75pt;border-right-style:solid;border-right-width:0.75pt;"&gt;
+&lt;p class="smt_tblL"&gt;株式会社りそな銀行　東京営業部&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-bottom-style:solid;border-bottom-width:0.75pt;border-left-style:solid;border-left-width:0.75pt;border-right-style:solid;border-right-width:0.75pt;"&gt;
+&lt;p class="smt_tblL"&gt;東京都文京区後楽二丁目５番１号&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;p style="clear:both; line-height:0.75pt; width:100%; font-size:0.75pt;"&gt; &lt;/p&gt;
+&lt;/div&gt;
+&lt;p class="smt_text6"&gt; &lt;/p&gt;</jpcrp_cor:PlaceForPaymentTextBlock>
+  <jpcrp_cor:UnderwritingOfSharesNATextBlock contextRef="FilingDateInstant">
+&lt;h3 class="smt_head2"&gt;３ 【株式の引き受け】&lt;/h3&gt;
+&lt;p class="smt_text2"&gt;該当事項はありません。&lt;/p&gt;
+&lt;p class="smt_text6"&gt; &lt;/p&gt;</jpcrp_cor:UnderwritingOfSharesNATextBlock>
+  <jpcrp_cor:AmountOfNetProceedsFromNewIssuanceTextBlock contextRef="FilingDateInstant">
+&lt;h4 class="smt_head3"&gt;(1) 【新規発行による手取金の額】&lt;/h4&gt;
+&lt;p class="smt_unitR"&gt; &lt;/p&gt;
+&lt;div class="tbld" style="text-align:left;"&gt;
+&lt;table cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:solid 0pt #000000;width:467.9pt;" class="align_left"&gt;
+&lt;colgroup&gt;
+&lt;col style="width:156.0pt;min-width:156.0pt;"/&gt;
+&lt;col style="width:156.0pt;min-width:156.0pt;"/&gt;
+&lt;col style="width:156.0pt;min-width:156.0pt;"/&gt;
+&lt;/colgroup&gt;
+&lt;tr style="height:22.7pt"&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-bottom-style:solid;border-bottom-width:0.75pt;border-left-style:solid;border-left-width:0.75pt;border-right-style:solid;border-right-width:0.75pt;"&gt;
+&lt;p class="smt_tblC"&gt;払込金額の総額(円)&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-bottom-style:solid;border-bottom-width:0.75pt;border-left-style:solid;border-left-width:0.75pt;border-right-style:solid;border-right-width:0.75pt;"&gt;
+&lt;p class="smt_tblC"&gt;発行諸費用の概算額(円)&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-bottom-style:solid;border-bottom-width:0.75pt;border-left-style:solid;border-left-width:0.75pt;border-right-style:solid;border-right-width:0.75pt;"&gt;
+&lt;p class="smt_tblC"&gt;差引手取金額(円)&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height:22.7pt"&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-bottom-style:solid;border-bottom-width:0.75pt;border-left-style:solid;border-left-width:0.75pt;border-right-style:solid;border-right-width:0.75pt;"&gt;
+&lt;p class="smt_tblR"&gt;149,264,570&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-bottom-style:solid;border-bottom-width:0.75pt;border-left-style:solid;border-left-width:0.75pt;border-right-style:solid;border-right-width:0.75pt;"&gt;
+&lt;p class="smt_tblR"&gt;―&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-bottom-style:solid;border-bottom-width:0.75pt;border-left-style:solid;border-left-width:0.75pt;border-right-style:solid;border-right-width:0.75pt;"&gt;
+&lt;p class="smt_tblR"&gt;149,264,570&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;p style="clear:both; line-height:0.75pt; width:100%; font-size:0.75pt;"&gt; &lt;/p&gt;
+&lt;/div&gt;
+&lt;p class="smt_anno1"&gt;(注)　新規発行による手取金の使途とは本自己株式処分による手取金の使途であります。&lt;/p&gt;
+&lt;p class="smt_text6"&gt; &lt;/p&gt;</jpcrp_cor:AmountOfNetProceedsFromNewIssuanceTextBlock>
+  <jpcrp_cor:UseOfNetProceedsTextBlock contextRef="FilingDateInstant">
+&lt;h4 class="smt_head3"&gt;(2) 【手取金の使途】&lt;/h4&gt;
+&lt;p class="smt_text3"&gt;取締役(社外取締役を除く)を対象に、中長期的視野を持って、業績の向上と企業価値の増大への貢献意識を高めることを目的とした「役員向け株式給付信託」を導入するため、本自己株式処分を行うものです。&lt;/p&gt;
+&lt;p class="smt_text3" style="text-align:justify;padding-left:18pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-indent:9pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;"&gt;なお、本自己株式の処分により調達する資金149,264,570円については、払込期日以降順次、全額を諸費用支払いなどの運転資金に充当する予定です。&lt;/p&gt;
+&lt;p class="smt_text3" style="text-align:justify;padding-left:18pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-indent:9pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;"&gt;また、支出実行までの資金管理は、当社預金口座にて管理を行います。&lt;/p&gt;
+&lt;p class="smt_text6"&gt; &lt;/p&gt;</jpcrp_cor:UseOfNetProceedsTextBlock>
+  <jpcrp_cor:ParticularsOfSecondaryDistributionNATextBlock contextRef="FilingDateInstant">
+&lt;h2 class="smt_head1"&gt;第２ 【売出要項】&lt;/h2&gt;
+&lt;p class="smt_text6"&gt; &lt;/p&gt;
+&lt;p class="smt_text2"&gt;該当事項はありません。&lt;/p&gt;
+&lt;p class="smt_text6"&gt; &lt;/p&gt;</jpcrp_cor:ParticularsOfSecondaryDistributionNATextBlock>
+  <jpcrp_cor:InformationAboutPartiesToBeAllottedToTextBlock contextRef="FilingDateInstant">
+&lt;h3 class="smt_head2"&gt;１ 【割当予定先の状況】&lt;/h3&gt;
+&lt;h4 class="smt_head3"&gt;ａ　割当予定先の概要&lt;/h4&gt;
+&lt;p class="smt_unitR"&gt; &lt;/p&gt;
+&lt;div class="tbld" style="margin-left:0pt;margin-right:0pt;margin-top:0pt;margin-bottom:0pt;"&gt;
+&lt;table cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:solid 0pt #000000;width:468pt;"&gt;
+&lt;colgroup&gt;
+&lt;col style="width:160.5pt;min-width:160.5pt;"/&gt;
+&lt;col style="width:307.5pt;min-width:307.5pt;"/&gt;
+&lt;/colgroup&gt;
+&lt;tr style="height:18pt"&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblL" style="text-align:justify;padding-left:4.5pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:12pt;"&gt;名称&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblL" style="text-align:justify;padding-left:4.5pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:12pt;"&gt;日本トラスティ・サービス信託銀行株式会社(信託口)&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height:18pt"&gt;
+&lt;td valign="top" style="vertical-align:top;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblL" style="text-align:justify;padding-left:4.5pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:12pt;"&gt;本店の所在地&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblL" style="text-align:justify;padding-left:4.5pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:12pt;"&gt;東京都中央区晴海一丁目８番11号&lt;/p&gt;
+&lt;p class="smt_tblL" style="text-align:justify;padding-left:4.5pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:12pt;"&gt;(晴海アイランドトリトンスクエア　オフィスタワーＹ)&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height:18pt"&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblL" style="text-align:justify;padding-left:4.5pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:12pt;"&gt;代表者の役職及び氏名&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblL" style="text-align:justify;padding-left:4.5pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:12pt;"&gt;代表取締役社長　桑名　康夫&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height:18pt"&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblL" style="text-align:justify;padding-left:4.5pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:12pt;"&gt;資本金&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblL" style="text-align:justify;padding-left:4.5pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:12pt;"&gt;51,000百万円&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height:18pt"&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblL" style="text-align:justify;padding-left:4.5pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:12pt;"&gt;事業の内容&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblL" style="text-align:justify;padding-left:4.5pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:12pt;"&gt;有価証券等の管理業務、資産管理に係る信託業務・銀行業務&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height:18pt"&gt;
+&lt;td valign="top" style="vertical-align:top;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblL" style="text-align:justify;padding-left:4.5pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:12pt;"&gt;主たる出資者及びその出資比率&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblL" style="text-align:justify;padding-left:4.5pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:12pt;"&gt;三井住友トラスト・ホールディングス株式会社：66.66％&lt;/p&gt;
+&lt;p class="smt_tblL" style="text-align:justify;padding-left:4.5pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:12pt;"&gt;株式会社りそな銀行：33.33％&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;p style="clear:both; line-height:0.75pt; width:100%; font-size:0.75pt;"&gt; &lt;/p&gt;
+&lt;/div&gt;
+&lt;p class="smt_text6"&gt;　&lt;/p&gt;
+&lt;h4 class="smt_head3"&gt;ｂ　提出者と割当予定先との間の関係&lt;/h4&gt;
+&lt;p class="smt_unitR"&gt; &lt;/p&gt;
+&lt;div class="tbld" style="margin-left:0pt;margin-right:0pt;margin-top:0pt;margin-bottom:0pt;"&gt;
+&lt;table cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:solid 0pt #000000;width:468pt;"&gt;
+&lt;colgroup&gt;
+&lt;col style="width:160.5pt;min-width:160.5pt;"/&gt;
+&lt;col style="width:307.5pt;min-width:307.5pt;"/&gt;
+&lt;/colgroup&gt;
+&lt;tr style="height:22.5pt"&gt;
+&lt;td valign="top" style="vertical-align:top;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblL" style="text-align:justify;padding-left:4.5pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:12pt;"&gt;出資関係&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblL" style="text-align:justify;padding-left:4.5pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:12pt;"&gt;割当予定先において当社普通株式923,200株(発行済株式総数の8.44％)を信託財産として保有しております。また、割当予定先の出資者である株式会社りそな銀行において当社普通株式523,400株(発行済株式総数の4.78％)を保有しております。&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height:22.5pt"&gt;
+&lt;td valign="top" style="vertical-align:top;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblL" style="text-align:justify;padding-left:4.5pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:12pt;"&gt;人事関係&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblL" style="text-align:justify;padding-left:4.5pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:12pt;"&gt;当社取締役のうち１名が割当予定先出身者であります。また、当社監査役のうち１名が割当予定先の出資者である株式会社りそな銀行の出身者であります。&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height:18pt"&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblL" style="text-align:justify;padding-left:4.5pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:12pt;"&gt;資金関係&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblL" style="text-align:justify;padding-left:4.5pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:12pt;"&gt;該当事項はありません。&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height:22.5pt"&gt;
+&lt;td valign="top" style="vertical-align:top;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblL" style="text-align:justify;padding-left:4.5pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:12pt;"&gt;技術又は取引関係&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblL" style="text-align:justify;padding-left:4.5pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:12pt;"&gt;当社と割当予定先との間には、該当事項はありません。ただし、割当予定先の出資者である株式会社りそな銀行とは、銀行取引、信託銀行取引があります。&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;p style="clear:both; line-height:0.75pt; width:100%; font-size:0.75pt;"&gt; &lt;/p&gt;
+&lt;/div&gt;
+&lt;p class="smt_anno1" style="padding-left:27pt;text-justify:inter-ideograph;text-indent:-18pt;"&gt;※　割当予定先の概要及び提出者と割当予定先との間の関係の欄は、平成29年８月４日現在のものであります。また、出資関係につきましては、平成29年３月31日現在の株主名簿を基準として記載しております。&lt;/p&gt;
+&lt;p class="smt_text6" style="text-align:justify;padding-left:0pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;font-size:15pt;"&gt; &lt;/p&gt;
+&lt;h4 class="smt_head3"&gt;※業績連動型株式報酬制度(以下、「本制度」といいます。)の内容&lt;/h4&gt;
+&lt;p class="smt_text3" style="padding-left:9pt;"&gt;当社は、当社を委託者、株式会社りそな銀行を受託者とする信託契約(以下、「本信託契約」といいます。)を締結します。本信託契約に基づいて設定される信託を「本信託」といいます。また、株式会社りそな銀行は日本トラスティ・サービス信託銀行株式会社を再信託受託者として有価証券等の信託財産の管理を再信託します。割当予定先である日本トラスティ・サービス信託銀行株式会社(信託口)は、当該再信託に係る契約によって設定される信託であります。&lt;/p&gt;
+&lt;h5 class="smt_head4"&gt;(1) 本制度の概要&lt;/h5&gt;
+&lt;p class="smt_text4"&gt;本信託は、あらかじめ当社が定めた「取締役株式給付規程」(以下、「株式給付規程」といいます。)に基づき、一定の受益者要件を満たした当社の取締役(社外取締役を除く)に対し、当社株式及び当社株式を時価で換算した金額相当の金銭(以下「当社株式等」といいます。)を給付する仕組みです。&lt;/p&gt;
+&lt;p class="smt_text4" style="text-align:justify;padding-left:27pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-indent:9pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;"&gt;当社は、取締役に対し、役位および業績達成度、業績貢献度に応じて各事業年度にポイントを付与し、原則として取締役が退任し、受益者要件を満たした場合、所定の受益者確定手続きを行うことにより、退任時に定められた確定ポイント数に応じた数の当社株式等を給付します。取締役に対し給付する株式については、あらかじめ信託設定した金銭により将来分も含め取得し、信託財産として分別管理するものとします。&lt;/p&gt;
+&lt;p class="smt_text4" style="text-align:justify;padding-left:27pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-indent:9pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;"&gt;本制度の導入は、取締役の報酬と当社の業績および株式価値との連動性をより明確にし、取締役が株価上昇によるメリットのみならず、株価下落によるリスクまでも株主の皆様と共有することで、中長期的な業績の向上と企業価値の増大に貢献する意識を高めることを目的としております。&lt;/p&gt;
+&lt;p class="smt_text4" style="text-align:justify;padding-left:27pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-indent:9pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;"&gt;当社は、「株式給付規程」に基づき取締役に将来給付する株式をあらかじめ取得するために、株式会社りそな銀行(再信託受託者：日本トラスティ・サービス信託銀行株式会社(信託口)(以下、「信託銀行」といいます。))に金銭を信託します。信託銀行は、株式給付規程に基づき将来付与されると合理的に見込まれるポイント数に相当する数の当社株式を当社からの第三者割当により取得します。&lt;/p&gt;
+&lt;p style="page-break-before:always; line-height:0.75pt; width:100%; font-size:0.75pt;"&gt; &lt;/p&gt;
+&lt;p class="smt_text4" style="text-align:justify;padding-left:27pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-indent:9pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;"&gt;また、第三者割当については、本信託と当社の間で本有価証券届出書の効力発生後に締結される株式総数引受契約に基づいて行われ、本信託を通じて信託銀行が当社株式を取得します。割当予定先である日本トラスティ・サービス信託銀行株式会社(信託口)(原信託受託先：株式会社りそな銀行)は、割り当てられた当社株式に係る議決権行使について、信託管理人の指図に従いますが、信託の当社経営からの独立性を確保するため一律不行使とします。&lt;/p&gt;
+&lt;p class="smt_text4" style="text-align:justify;padding-left:27pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-indent:9pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;"&gt;なお、信託管理人には、当社と利害関係を有しない第三者が就任します。&lt;/p&gt;
+&lt;p class="smt_text6" style="text-align:justify;padding-left:0pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;font-size:15pt;"&gt; &lt;/p&gt;
+&lt;h5 class="smt_head4"&gt;(2) 受益者の範囲&lt;/h5&gt;
+&lt;p class="smt_text4"&gt;株式給付規程の定めにより財産給付を受ける権利が確定した者&lt;/p&gt;
+&lt;h6 class="smt_head5"&gt;(本制度の概要)&lt;/h6&gt;
+&lt;div class="tbld" style="margin-left:36pt;margin-right:0pt;margin-top:0pt;margin-bottom:0pt;"&gt;
+&lt;table cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:solid 0pt #000000;width:447.1pt;"&gt;
+&lt;colgroup&gt;
+&lt;col style="width:126.8pt;min-width:126.8pt;"/&gt;
+&lt;col style="width:320.3pt;min-width:320.3pt;"/&gt;
+&lt;/colgroup&gt;
+&lt;tr style="height:15pt"&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-color:#a9a9a9;border-bottom-color:#a9a9a9;border-left-color:#a9a9a9;border-right-color:#a9a9a9;"&gt;
+&lt;p class="smt_tblL" style="text-align:justify;padding-left:0pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;"&gt;(1) 名称&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-color:#a9a9a9;border-bottom-color:#a9a9a9;border-left-color:#a9a9a9;border-right-color:#a9a9a9;"&gt;
+&lt;p class="smt_tblL" style="text-align:justify;padding-left:0pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;"&gt;：役員向け株式給付信託&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height:15pt"&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-color:#a9a9a9;border-bottom-color:#a9a9a9;border-left-color:#a9a9a9;border-right-color:#a9a9a9;"&gt;
+&lt;p class="smt_tblL" style="text-align:justify;padding-left:0pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;"&gt;(2) 委託者&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;"&gt;
+&lt;p class="smt_tblL" style="text-align:justify;padding-left:0pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;"&gt;：当社&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height:15pt"&gt;
+&lt;td valign="top" style="vertical-align:top;border-top-color:#a9a9a9;border-bottom-color:#a9a9a9;border-left-color:#a9a9a9;border-right-color:#a9a9a9;"&gt;
+&lt;p class="smt_tblL" style="text-align:justify;padding-left:0pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;"&gt;(3) 受託者&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;"&gt;
+&lt;p class="smt_tblL" style="text-align:justify;padding-left:0pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;"&gt;：株式会社りそな銀行&lt;/p&gt;
+&lt;p class="smt_tblL" style="text-align:justify;padding-left:0pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;"&gt;　(再信託受託者：日本トラスティ・サービス信託銀行株式会社(信託口))&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height:15pt"&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-color:#a9a9a9;border-bottom-color:#a9a9a9;border-left-color:#a9a9a9;border-right-color:#a9a9a9;"&gt;
+&lt;p class="smt_tblL" style="text-align:justify;padding-left:0pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;"&gt;(4) 受益者&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;"&gt;
+&lt;p class="smt_tblL" style="text-align:justify;padding-left:0pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;"&gt;：当社取締役のうち、受益者要件を満たす者&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height:15pt"&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-color:#a9a9a9;border-bottom-color:#a9a9a9;border-left-color:#a9a9a9;border-right-color:#a9a9a9;"&gt;
+&lt;p class="smt_tblL" style="text-align:justify;padding-left:0pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;"&gt;(5) 信託管理人&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;"&gt;
+&lt;p class="smt_tblL" style="text-align:justify;padding-left:0pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;"&gt;：当社と利害関係を有しない第三者&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height:15pt"&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-color:#a9a9a9;border-bottom-color:#a9a9a9;border-left-color:#a9a9a9;border-right-color:#a9a9a9;"&gt;
+&lt;p class="smt_tblL" style="text-align:justify;padding-left:0pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;"&gt;(6) 本信託契約の締結日&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;"&gt;
+&lt;p class="smt_tblL" style="text-align:justify;padding-left:0pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;"&gt;：平成29年８月21日&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height:15pt"&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-color:#a9a9a9;border-bottom-color:#a9a9a9;border-left-color:#a9a9a9;border-right-color:#a9a9a9;"&gt;
+&lt;p class="smt_tblL" style="text-align:justify;padding-left:0pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;"&gt;(7) 金銭を信託する日&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;"&gt;
+&lt;p class="smt_tblL" style="text-align:justify;padding-left:0pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;"&gt;：平成29年８月21日&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height:15pt"&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-color:#a9a9a9;border-bottom-color:#a9a9a9;border-left-color:#a9a9a9;border-right-color:#a9a9a9;"&gt;
+&lt;p class="smt_tblL" style="text-align:justify;padding-left:0pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;"&gt;(8) 信託の期間&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;"&gt;
+&lt;p class="smt_tblL" style="text-align:justify;padding-left:0pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;"&gt;：平成29年８月21日から信託が終了するまで&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height:15pt"&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-color:#a9a9a9;border-bottom-color:#a9a9a9;border-left-color:#a9a9a9;border-right-color:#a9a9a9;"&gt;
+&lt;p class="smt_tblL" style="text-align:justify;padding-left:0pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;"&gt;(9) 議決権行使&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;"&gt;
+&lt;p class="smt_tblL" style="text-align:justify;padding-left:0pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;"&gt;：行使しない &lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height:15pt"&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-color:#a9a9a9;border-bottom-color:#a9a9a9;border-left-color:#a9a9a9;border-right-color:#a9a9a9;"&gt;
+&lt;p class="smt_tblL" style="text-align:justify;padding-left:0pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;"&gt;(10) 取得株式の種類&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;"&gt;
+&lt;p class="smt_tblL" style="text-align:justify;padding-left:0pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;"&gt;：当社普通株式&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height:15pt"&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-color:#a9a9a9;border-bottom-color:#a9a9a9;border-left-color:#a9a9a9;border-right-color:#a9a9a9;"&gt;
+&lt;p class="smt_tblL" style="text-align:justify;padding-left:0pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;"&gt;(11) 取得株式の総額&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;"&gt;
+&lt;p class="smt_tblL" style="text-align:justify;padding-left:0pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;"&gt;：149,264,570円&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height:15pt"&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-color:#a9a9a9;border-bottom-color:#a9a9a9;border-left-color:#a9a9a9;border-right-color:#a9a9a9;"&gt;
+&lt;p class="smt_tblL" style="text-align:justify;padding-left:0pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;"&gt;(12) 株式の取得時期&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;"&gt;
+&lt;p class="smt_tblL" style="text-align:justify;padding-left:0pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;"&gt;：平成29年８月21日&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height:15pt"&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-color:#a9a9a9;border-bottom-color:#a9a9a9;border-left-color:#a9a9a9;border-right-color:#a9a9a9;"&gt;
+&lt;p class="smt_tblL" style="text-align:justify;padding-left:0pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;"&gt;(13) 株式の取得方法&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-color:#a9a9a9;border-bottom-color:#a9a9a9;border-left-color:#a9a9a9;border-right-color:#a9a9a9;"&gt;
+&lt;p class="smt_tblL" style="text-align:justify;padding-left:0pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;"&gt;：第三者割当による処分(第三者割当の方法による当社株式の取得)&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height:15pt"&gt;
+&lt;td valign="top" style="vertical-align:top;border-top-color:#a9a9a9;border-bottom-color:#a9a9a9;border-left-color:#a9a9a9;border-right-color:#a9a9a9;"&gt;
+&lt;p class="smt_tblL" style="text-align:justify;padding-left:0pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;"&gt;(14) 残余財産&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;"&gt;
+&lt;p class="smt_tblL" style="padding-left:9pt;padding-right:0pt;text-justify:inter-ideograph;text-indent:-9pt;line-height:15pt;"&gt;：当社株式については、全て当社が無償で取得した上で、取締役会決議により消却するまたは公益法人に寄付することを予定しています。&lt;/p&gt;
+&lt;p class="smt_tblL" style="padding-left:9pt;padding-right:0pt;line-height:15pt;"&gt;金銭については、その時点で存在する本制度の対象者に対し、各々の累積ポイントの数に応じて按分して給付する、または公益法人に寄付することを予定しています。&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;p style="clear:both; line-height:0.75pt; width:100%; font-size:0.75pt;"&gt; &lt;/p&gt;
+&lt;/div&gt;
+&lt;p class="smt_text6" style="text-align:justify;padding-left:0pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;font-size:15pt;"&gt; &lt;/p&gt;
+&lt;p style="page-break-before:always; line-height:0.75pt; width:100%; font-size:0.75pt;"&gt; &lt;/p&gt;
+&lt;h6 class="smt_head5" style="padding-left:22.5pt;"&gt;〈株式給付信託の概要〉&lt;/h6&gt;
+&lt;p class="smt_text6"&gt;　&lt;/p&gt;
+&lt;div style="padding-left:22.5pt;"&gt;&lt;img width="558" height="352" src="fuzoku/50_0164105002908.gif" alt=""/&gt;&lt;br/&gt;
+&lt;/div&gt;
+&lt;p class="smt_text6"&gt;　&lt;/p&gt;
+&lt;div class="tbld" style="margin-left:0pt;margin-right:0pt;margin-top:0pt;margin-bottom:0pt;"&gt;
+&lt;table cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:solid 0pt #000000;width:483pt;"&gt;
+&lt;colgroup&gt;
+&lt;col style="width:483pt;min-width:483pt;"/&gt;
+&lt;/colgroup&gt;
+&lt;tr style="height:187.5pt"&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblL" style="padding-left:22.5pt;text-justify:inter-ideograph;text-indent:-18pt;line-height:15pt;"&gt;①　当社は、本制度の導入に関して平成29年６月27日開催の当社第94回株主総会において、取締役の役員報酬枠の承認決議を得ております。&lt;/p&gt;
+&lt;p class="smt_tblL" style="text-align:justify;padding-left:22.5pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:-18pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;"&gt;②　当社は、本信託の導入に関して取締役会において株式給付規程を制定しております。&lt;/p&gt;
+&lt;p class="smt_tblL" style="text-align:justify;padding-left:22.5pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:-18pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;"&gt;③　当社は、上記①の当社株主総会で承認を受けた範囲内で金銭を信託し、本信託の対象者を受益者候補とする信託を設定します。なお、上記範囲内で金銭を追加して信託することができるものとします。&lt;/p&gt;
+&lt;p class="smt_tblL" style="text-align:justify;padding-left:22.5pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:-18pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;"&gt;④　本信託は、上記③で信託された金銭を原資として当社株式を当社(自己株式の処分)から取得します。&lt;/p&gt;
+&lt;p class="smt_tblL" style="text-align:justify;padding-left:22.5pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:-18pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;"&gt;⑤　本信託内の当社株式については、信託期間を通じて議決権を行使しないものとします。&lt;/p&gt;
+&lt;p class="smt_tblL" style="text-align:justify;padding-left:22.5pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:-18pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;"&gt;⑥　信託期間中、上記②の株式給付規程の定めにより、本信託の対象者の役位および業績達成度、業績貢献度に応じて対象者にポイントが付与されます。原則として取締役の退任時において株式給付規程に定める一定の受益者要件を満たした対象者に対して、付与されたポイントに応じた数の当社株式を給付します。ただし、取締役が株式給付規程の定める要件を満たす場合には、一定割合について、当社株式の給付に代えて当社株式の時価相当の金銭を給付します。&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;p style="clear:both; line-height:0.75pt; width:100%; font-size:0.75pt;"&gt; &lt;/p&gt;
+&lt;/div&gt;
+&lt;p class="smt_text6" style="text-align:justify;padding-left:0pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;font-size:15pt;"&gt; &lt;/p&gt;
+&lt;h4 class="smt_head3"&gt;ｃ　割当予定先の選定理由&lt;/h4&gt;
+&lt;p class="smt_text3"&gt;当社は、本制度の導入にあたり、円滑な導入や導入後の事務体制、過去の実績、本信託に係る事務コスト等を他社比較等も含めて総合的に勘案した結果、株式会社りそな銀行より提案のありました本信託を導入することといたしました。&lt;/p&gt;
+&lt;p class="smt_text3" style="text-align:justify;padding-left:18pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-indent:9pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;"&gt;また、当社は機動的な資本政策や資本効率の向上を目的とし、自己株式の取得を行ってまいりましたが、本信託の導入にあたり、金庫株の有効活用のため自己株式の割り当てを行うこととなりました。&lt;/p&gt;
+&lt;p class="smt_text3" style="text-align:justify;padding-left:18pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-indent:9pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;"&gt;これらの経緯を踏まえ、本信託においては「※業績連動型株式報酬制度の内容」に記載しましたとおり、当社を委託者、株式会社りそな銀行を受託者として本信託契約を締結した上で、当社が、本信託の受託者である株式会社りそな銀行の再信託受託者である日本トラスティ・サービス信託銀行株式会社(信託口)を割当予定先として選定したものであります。&lt;/p&gt;
+&lt;p class="smt_text6" style="text-align:justify;padding-left:0pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;font-size:15pt;"&gt; &lt;/p&gt;
+&lt;h4 class="smt_head3"&gt;ｄ　割り当てしようとする株式の数&lt;/h4&gt;
+&lt;p class="smt_text3"&gt;47,918株&lt;/p&gt;
+&lt;p class="smt_text6" style="text-align:justify;padding-left:0pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;font-size:15pt;"&gt; &lt;/p&gt;
+&lt;p style="page-break-before:always; line-height:0.75pt; width:100%; font-size:0.75pt;"&gt; &lt;/p&gt;
+&lt;h4 class="smt_head3"&gt;ｅ　株券等の保有方針&lt;/h4&gt;
+&lt;p class="smt_text3"&gt;割当予定先である日本トラスティ・サービス信託銀行株式会社(信託口)は、本自己株式の処分により取得する当社株式を、本信託契約に基づき、信託期間内において株式給付規程に基づき当社株式を受益者に給付するために保有するものです。&lt;/p&gt;
+&lt;p class="smt_text6" style="text-align:justify;padding-left:0pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;font-size:15pt;"&gt; &lt;/p&gt;
+&lt;h4 class="smt_head3"&gt;ｆ　払込みに要する資金等の状況&lt;/h4&gt;
+&lt;p class="smt_text3"&gt;割当予定先の払込みに要する資金に相当する金銭につきましては、当社から株式会社りそな銀行(再信託受託者：日本トラスティ・サービス信託銀行株式会社)へ信託する当初信託金をもって、割当日において信託財産内に存在する予定である旨、本信託契約書案により確認を行っております。&lt;/p&gt;
+&lt;p class="smt_text6" style="text-align:justify;padding-left:0pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;font-size:15pt;"&gt; &lt;/p&gt;
+&lt;h4 class="smt_head3"&gt;ｇ　割当予定先の実態&lt;/h4&gt;
+&lt;p class="smt_text3"&gt;割当予定先である日本トラスティ・サービス信託銀行株式会社(信託口)(原信託受託先：株式会社りそな銀行)は、割り当てられた当社株式に係る議決権行使について、信託管理人の指図に従います。&lt;/p&gt;
+&lt;p class="smt_text3" style="text-align:justify;padding-left:18pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-indent:9pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;"&gt;信託管理人には、当社と利害関係を有しない第三者が就任します。なお、本信託内の当社株式に係る議決権は信託の経営からの独立性を確保するため一律不行使といたします。&lt;/p&gt;
+&lt;p class="smt_text3" style="text-align:justify;padding-left:18pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-indent:9pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;"&gt;また、割当予定先及びその原信託受託先である株式会社りそな銀行(以下「割当予定先等」といいます。)が暴力もしくは威力を用い、または詐欺その他の犯罪行為を行うことにより経済的利益を享受しようとする個人、法人その他団体(以下、「特定団体等」といいます。)であるか否か、および割当予定先等が特定団体等と何らかの関係を有しているか否かについては、割当予定先のホームページ等の公開情報に基づき調査を行い、同社の倫理憲章の一つとして「反社会的勢力への冷静かつ信念を持った毅然とした対応」が掲げられ、その取り組みに問題がないことを確認しました。また、原信託受託者についてもホームページ等の公開情報に基づき調査を行い、同社のコンプライアンス体制として「反社会的勢力の排除」が掲げられており、その取り組みについても問題がないことを確認しました。その結果、当社といたしましては割当予定先等が特定団体等でないことおよび割当予定先等が特定団体等と何ら関係を有していないと判断いたしました。なお、当社は、その旨の確認書を株式会社東京証券取引所に提出しております。&lt;/p&gt;
+&lt;p class="smt_text6"&gt; &lt;/p&gt;</jpcrp_cor:InformationAboutPartiesToBeAllottedToTextBlock>
+  <jpcrp020300-srs_E00012-000:RestrictionOnTransferOfSharesEtcNATextBlock contextRef="FilingDateInstant">
+&lt;h3 class="smt_head2"&gt;２ 【株券等の譲渡制限】&lt;/h3&gt;
+&lt;p class="smt_text2"&gt;該当事項はありません。&lt;/p&gt;
+&lt;p class="smt_text6"&gt; &lt;/p&gt;</jpcrp020300-srs_E00012-000:RestrictionOnTransferOfSharesEtcNATextBlock>
+  <jpcrp_cor:InformationAboutTermsOfIssuanceTextBlock contextRef="FilingDateInstant">
+&lt;h3 class="smt_head2"&gt;３ 【発行条件に関する事項】&lt;/h3&gt;
+&lt;h4 class="smt_head3"&gt;ａ　払込金額の算定根拠および合理性に関する考え方&lt;/h4&gt;
+&lt;p class="smt_text3"&gt;本自己株式処分は、本制度の導入を目的として行います。処分価額につきましては、恣意性を排除した価額とするため、当該処分に係る取締役会決議(以下、「本取締役会決議日」といいます。)の直前営業日(平成29年８月３日)の東京証券取引所における当社株式の終値である3,115円といたしました。&lt;/p&gt;
+&lt;p class="smt_text3" style="text-align:justify;padding-left:18pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-indent:9pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;"&gt;本取締役会決議日の直前営業日の東京証券取引所における当社株式の終値を採用しましたのは、株式市場における当社の適正な企業価値を表すものであり、合理的であると考えたためです。&lt;/p&gt;
+&lt;p class="smt_text3" style="text-align:justify;padding-left:18pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-indent:9pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;"&gt;なお、当該価額は、本取締役会決議日の直前営業日の終値を採用していること及び本取締役会決議日の直前１カ月間(平成29年７月４日から平成29年８月３日)の終値の平均である3,109円(円未満切捨て)からの乖離率は0.19％、本取締役会決議日の直前３カ月間(平成29年５月８日から平成29年８月３日まで)の終値の平均値である3,094円(円未満切捨て)からの乖離率は0.68％、同直前６カ月間(平成29年２月６日から平成29年８月３日まで)の終値の平均値である3,030円(円未満切捨て)からの乖離率は2.81％となっていることから、処分価額の算定は日本証券業協会の「第三者割当増資の取扱いに関する指針」に準拠したものであり、処分先に特に有利な処分価額には該当しないものと判断しております。&lt;/p&gt;
+&lt;p class="smt_text3" style="text-align:justify;padding-left:18pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-indent:9pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;"&gt;上記処分価額につきましては、取締役会に出席した監査役４名(うち２名は社外監査役)全員が、特に有利な処分価額に該当しない旨の意見を表明しております。&lt;/p&gt;
+&lt;p class="smt_text6"&gt; &lt;/p&gt;
+&lt;p style="page-break-before:always; line-height:0.75pt; width:100%; font-size:0.75pt;"&gt; &lt;/p&gt;
+&lt;h4 class="smt_head3"&gt;ｂ　処分数量及び株式の希薄化規模の合理性に関する考え方&lt;/h4&gt;
+&lt;p class="smt_text3"&gt;処分数量につきましては、株式給付規程に基づき付与すると見込まれる株式の総数に相当するものであり、平成29年３月31日現在の発行済株式総数10,928,283株に対し0.43％(少数第３位を切捨て。平成29年３月31日現在の総議決権総数104,843個に対する割合0.45％)となりますが、株式給付規程に基づく株式の給付は、取締役の退任等に伴うもので緩やかに行われるため、本自己株式処分による株式が大量に株式市場に流出することは考えられません。&lt;/p&gt;
+&lt;p class="smt_text3" style="text-align:justify;padding-left:18pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-indent:9pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;"&gt;加えて、本自己株式処分は、取締役の報酬と当社の業績および株式価値との連動性をより明確にし、取締役が株価上昇によるメリットのみならず、株価下落によるリスクまでも株主の皆様と共有することで、中長期的な業績の向上と企業価値の増大に貢献する意識を高めるものであり、当社の企業価値の向上に繋がることから、その希薄化の規模は合理的であり、流通市場への影響は軽微であると考えております。&lt;/p&gt;
+&lt;p class="smt_text6"&gt; &lt;/p&gt;</jpcrp_cor:InformationAboutTermsOfIssuanceTextBlock>
+  <jpcrp020300-srs_E00012-000:InformationAboutLargeVolumeThirdPartyAllotmentNATextBlock contextRef="FilingDateInstant">
+&lt;h3 class="smt_head2"&gt;４ 【大規模な第三者割当に関する事項】&lt;/h3&gt;
+&lt;p class="smt_text2"&gt;該当事項はありません。&lt;/p&gt;
+&lt;p class="smt_text6"&gt; &lt;/p&gt;</jpcrp020300-srs_E00012-000:InformationAboutLargeVolumeThirdPartyAllotmentNATextBlock>
+  <jpcrp_cor:MajorShareholdersAfterThirdPartyAllotmentTextBlock contextRef="FilingDateInstant">
+&lt;h3 class="smt_head2"&gt;５ 【第三者割当後の大株主の状況】&lt;/h3&gt;
+&lt;p class="smt_unitR"&gt; &lt;/p&gt;
+&lt;div class="tbld" style="margin-left:0pt;margin-right:0pt;margin-top:0pt;margin-bottom:0pt;"&gt;
+&lt;table cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:solid 0pt #000000;width:468pt;"&gt;
+&lt;colgroup&gt;
+&lt;col style="width:120pt;min-width:120pt;"/&gt;
+&lt;col style="width:147pt;min-width:147pt;"/&gt;
+&lt;col style="width:39pt;min-width:39pt;"/&gt;
+&lt;col style="width:61.5pt;min-width:61.5pt;"/&gt;
+&lt;col style="width:39pt;min-width:39pt;"/&gt;
+&lt;col style="width:61.5pt;min-width:61.5pt;"/&gt;
+&lt;/colgroup&gt;
+&lt;tr style="height:43.5pt"&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblC" style="text-align:center;padding-left:0pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;氏名又は名称&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblC" style="text-align:center;padding-left:0pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;住所&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblC" style="text-align:center;padding-left:0pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;所有&lt;/p&gt;
+&lt;p class="smt_tblC" style="text-align:center;padding-left:0pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;株式数&lt;/p&gt;
+&lt;p class="smt_tblC" style="text-align:center;padding-left:0pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;(千株)&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblC" style="text-align:center;padding-left:0pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;総議決権数&lt;br/&gt;に対する所&lt;br/&gt;有議決権数&lt;br/&gt;の割合(％)&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblC" style="text-align:center;padding-left:0pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;割当後&lt;br/&gt;の所有&lt;br/&gt;株式数&lt;br/&gt;(千株)&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblC" style="text-align:center;padding-left:0pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;割当後の総議決権数に対する所有議決権数の割合(％)&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height:22.5pt"&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblL" style="text-align:justify;padding-left:4.5pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;日本トラスティ・サービス&lt;/p&gt;
+&lt;p class="smt_tblL" style="text-align:justify;padding-left:4.5pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;信託銀行株式会社(信託口)&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblL" style="text-align:justify;padding-left:4.5pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;東京都中央区晴海一丁目８番11号&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR" style="text-align:right;padding-left:0pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;923&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR" style="text-align:right;padding-left:0pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;8.81&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR" style="text-align:right;padding-left:0pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;971&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR" style="text-align:right;padding-left:0pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;9.22&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height:22.5pt"&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblL" style="text-align:justify;padding-left:4.5pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;株式会社りそな銀行&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblL" style="text-align:justify;padding-left:4.5pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;大阪府大阪市中央区備後町二丁目２番１号&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR" style="text-align:right;padding-left:0pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;523&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR" style="text-align:right;padding-left:0pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;4.99&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR" style="text-align:right;padding-left:0pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;523&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR" style="text-align:right;padding-left:0pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;4.97&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height:22.5pt"&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblL" style="text-align:justify;padding-left:4.5pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;農林中央金庫 &lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblL" style="text-align:justify;padding-left:4.5pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;東京都千代田区有楽町一丁目13番２号&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR" style="text-align:right;padding-left:0pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;523&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR" style="text-align:right;padding-left:0pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;4.99&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR" style="text-align:right;padding-left:0pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;523&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR" style="text-align:right;padding-left:0pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;4.97&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height:22.5pt"&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblL" style="text-align:justify;padding-left:4.5pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;東洋製罐グループホールディングス株式会社&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblL" style="text-align:justify;padding-left:4.5pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;東京都品川区東五反田二丁目18番１号&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR" style="text-align:right;padding-left:0pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;315&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR" style="text-align:right;padding-left:0pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;3.00&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR" style="text-align:right;padding-left:0pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;315&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR" style="text-align:right;padding-left:0pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;2.99&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height:22.5pt"&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblL" style="text-align:justify;padding-left:4.5pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;三井住友海上火災保険株式会社&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblL" style="text-align:justify;padding-left:4.5pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;東京都千代田区神田駿河台三丁目９番地&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR" style="text-align:right;padding-left:0pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;250&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR" style="text-align:right;padding-left:0pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;2.39&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR" style="text-align:right;padding-left:0pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;250&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR" style="text-align:right;padding-left:0pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;2.37&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height:22.5pt"&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblL" style="text-align:justify;padding-left:4.5pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;東京海上日動火災保険株式会社&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblL" style="text-align:justify;padding-left:4.5pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;東京都千代田区丸の内一丁目２番１号&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR" style="text-align:right;padding-left:0pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;224&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR" style="text-align:right;padding-left:0pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;2.14&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR" style="text-align:right;padding-left:0pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;224&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR" style="text-align:right;padding-left:0pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;2.13&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height:22.5pt"&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblL" style="text-align:justify;padding-left:4.5pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;極洋秋津会 &lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblL" style="text-align:justify;padding-left:4.5pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;東京都港区赤坂三丁目３番５号&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR" style="text-align:right;padding-left:0pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;168&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR" style="text-align:right;padding-left:0pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;1.61&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR" style="text-align:right;padding-left:0pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;168&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR" style="text-align:right;padding-left:0pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;1.60&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height:22.5pt"&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblL" style="text-align:justify;padding-left:4.5pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;中央魚類株式会社 &lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblL" style="text-align:justify;padding-left:4.5pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;東京都中央区築地五丁目２番１号&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR" style="text-align:right;padding-left:0pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;139&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR" style="text-align:right;padding-left:0pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;1.33&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR" style="text-align:right;padding-left:0pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;139&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR" style="text-align:right;padding-left:0pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;1.33&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height:22.5pt"&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblL" style="text-align:justify;padding-left:4.5pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;三井住友信託銀行株式会社&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblL" style="text-align:justify;padding-left:4.5pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;東京都千代田区丸の内一丁目４番１号&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR" style="text-align:right;padding-left:0pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;121&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR" style="text-align:right;padding-left:0pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;1.16&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR" style="text-align:right;padding-left:0pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;121&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR" style="text-align:right;padding-left:0pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;1.15&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height:22.5pt"&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblL" style="text-align:justify;padding-left:4.5pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;三菱UFJ信託銀行株式会社&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblL" style="text-align:justify;padding-left:4.5pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;東京都千代田区丸の内一丁目４番５&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR" style="text-align:right;padding-left:0pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;120&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR" style="text-align:right;padding-left:0pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;1.14&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR" style="text-align:right;padding-left:0pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;120&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR" style="text-align:right;padding-left:0pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;1.14&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height:22.5pt"&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblC" style="text-align:center;padding-left:0pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;計&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblC" style="text-align:center;padding-left:0pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;―&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR" style="text-align:right;padding-left:0pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;3,310&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR" style="text-align:right;padding-left:0pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;31.57&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR" style="text-align:right;padding-left:0pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;3,358&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR" style="text-align:right;padding-left:0pt;padding-right:4.5pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;"&gt;31.88&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;p style="clear:both; line-height:0.75pt; width:100%; font-size:0.75pt;"&gt; &lt;/p&gt;
+&lt;/div&gt;
+&lt;p class="smt_annoNum1"&gt;(注) １．平成29年３月31日現在の株主名簿を基準として記載しております。&lt;/p&gt;
+&lt;p class="smt_annoNum2" style="text-align:left;padding-left:49.5pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:-18pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:12pt;"&gt;２．上記には、当社保有の自己株式を含めておりません。&lt;/p&gt;
+&lt;p class="smt_annoNum2" style="text-align:left;padding-left:49.5pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:-18pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:12pt;"&gt;３．所有株式数は千株未満を切り捨てて表示しております。&lt;/p&gt;
+&lt;p class="smt_annoNum2" style="text-align:left;padding-left:49.5pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:-18pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:12pt;"&gt;４．所有議決権数の割合は小数点第３位を四捨五入して表記しております。&lt;/p&gt;
+&lt;p class="smt_annoNum2" style="text-align:left;padding-left:49.5pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:-18pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:12pt;"&gt;５．割当後の所有株式数及び総議決権数に対する所有議決権数の割合は、割当後の議決権数を、平成29年３月31日現在の総議決権数(104,843個)に本自己株式処分により増加する議決権数(479個)を加えた数で除した数値です。&lt;/p&gt;
+&lt;p class="smt_text6"&gt; &lt;/p&gt;</jpcrp_cor:MajorShareholdersAfterThirdPartyAllotmentTextBlock>
+  <jpcrp020300-srs_E00012-000:NecessityOfLargeVolumeThirdPartyAllotmentNATextBlock contextRef="FilingDateInstant">
+&lt;h3 class="smt_head2"&gt;６ 【大規模な第三者割当の必要性】&lt;/h3&gt;
+&lt;p class="smt_text2"&gt;該当事項はありません。&lt;/p&gt;
+&lt;p class="smt_text6"&gt; &lt;/p&gt;</jpcrp020300-srs_E00012-000:NecessityOfLargeVolumeThirdPartyAllotmentNATextBlock>
+  <jpcrp020300-srs_E00012-000:ParticularsOfReverseSplitEtcIfApplicableNATextBlock contextRef="FilingDateInstant">
+&lt;h3 class="smt_head2"&gt;７ 【株式併合等の予定の有無及び内容】&lt;/h3&gt;
+&lt;p class="smt_text2"&gt;該当事項はありません。&lt;/p&gt;
+&lt;p class="smt_text6"&gt; &lt;/p&gt;</jpcrp020300-srs_E00012-000:ParticularsOfReverseSplitEtcIfApplicableNATextBlock>
+  <jpcrp020300-srs_E00012-000:OtherRelevantInformationNATextBlock contextRef="FilingDateInstant">
+&lt;p style="page-break-before:always; line-height:0.75pt; width:100%; font-size:0.75pt;"&gt; &lt;/p&gt;
+&lt;h3 class="smt_head2"&gt;８ 【その他参考になる事項】&lt;/h3&gt;
+&lt;p class="smt_text2"&gt;該当事項はありません。&lt;/p&gt;
+&lt;p class="smt_text6"&gt; &lt;/p&gt;</jpcrp020300-srs_E00012-000:OtherRelevantInformationNATextBlock>
+  <jpcrp_cor:OtherInformationSecurityInformationNATextBlock contextRef="FilingDateInstant">
+&lt;h2 class="smt_head1"&gt;第４ 【その他の記載事項】&lt;/h2&gt;
+&lt;p class="smt_text6"&gt; &lt;/p&gt;
+&lt;p class="smt_text2"&gt;該当事項はありません。&lt;/p&gt;
+&lt;p class="smt_text6"&gt;　&lt;/p&gt;
+&lt;p class="smt_text6" style="text-align:justify;padding-left:0pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;font-size:15pt;"&gt; &lt;/p&gt;</jpcrp_cor:OtherInformationSecurityInformationNATextBlock>
+  <jpcrp_cor:OverviewOfTenderOfferNATextBlock contextRef="FilingDateInstant">
+&lt;p class="smt_head1" style="padding-left:0pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ ゴシック&amp;apos;;text-align:justify;letter-spacing:0pt;line-height:18pt;font-size:12pt;"&gt;第１ 【公開買付けの概要】&lt;/p&gt;
+&lt;p class="smt_text6"&gt; &lt;/p&gt;
+&lt;p class="smt_text2"&gt;該当事項はありません。&lt;/p&gt;
+&lt;p class="smt_text6"&gt; &lt;/p&gt;</jpcrp_cor:OverviewOfTenderOfferNATextBlock>
+  <jpcrp_cor:CombinedFinancialInformationNATextBlock contextRef="FilingDateInstant">
+&lt;p class="smt_head1" style="padding-left:0pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ ゴシック&amp;apos;;text-align:justify;letter-spacing:0pt;line-height:18pt;font-size:12pt;"&gt;第２ 【統合財務情報】&lt;/p&gt;
+&lt;p class="smt_text6"&gt; &lt;/p&gt;
+&lt;p class="smt_text2"&gt;該当事項はありません。&lt;/p&gt;
+&lt;p class="smt_text6"&gt; &lt;/p&gt;</jpcrp_cor:CombinedFinancialInformationNATextBlock>
+  <jpcrp_cor:SignificantContractsBetweenIssuerAndOrItsRelatedPartiesAndSubjectCompanyNATextBlock contextRef="FilingDateInstant">
+&lt;p class="smt_head1" style="padding-left:0pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ ゴシック&amp;apos;;text-align:justify;letter-spacing:0pt;line-height:18pt;font-size:12pt;"&gt;第３ 【発行者(その関連者)と対象者との重要な契約】&lt;/p&gt;
+&lt;p class="smt_text6"&gt; &lt;/p&gt;
+&lt;p class="smt_text2"&gt;該当事項はありません。&lt;/p&gt;
+&lt;p class="smt_text6"&gt;　&lt;/p&gt;
+&lt;p class="smt_text6" style="text-align:justify;padding-left:0pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;font-size:15pt;"&gt; &lt;/p&gt;</jpcrp_cor:SignificantContractsBetweenIssuerAndOrItsRelatedPartiesAndSubjectCompanyNATextBlock>
+  <jpcrp_cor:AnnualSecuritiesReportAndAttachedDocumentsReferenceDocumentsTextBlock contextRef="FilingDateInstant">
+&lt;h3 class="smt_head2"&gt;１ 【有価証券報告書及びその添付書類】&lt;/h3&gt;
+&lt;p class="smt_text2"&gt;事業年度　第94期(自平成28年４月１日　至平成29年３月31日)平成29年６月27日関東財務局長に提出&lt;/p&gt;
+&lt;p class="smt_text6"&gt; &lt;/p&gt;</jpcrp_cor:AnnualSecuritiesReportAndAttachedDocumentsReferenceDocumentsTextBlock>
+  <jpcrp_cor:QuarterlySecuritiesReportOrSemiAnnualSecuritiesReportReferenceDocumentsTextBlock contextRef="FilingDateInstant">
+&lt;h3 class="smt_head2"&gt;２ 【四半期報告書又は半期報告書】&lt;/h3&gt;
+&lt;p class="smt_text2"&gt;事業年度　第95期第１四半期(自　平成29年４月１日　至　平成29年６月30日)平成29年８月10日関東財務局長に提出&lt;/p&gt;
+&lt;p class="smt_text6"&gt; &lt;/p&gt;</jpcrp_cor:QuarterlySecuritiesReportOrSemiAnnualSecuritiesReportReferenceDocumentsTextBlock>
+  <jpcrp_cor:ExtraordinarySecuritiesReportReferenceDocumentsTextBlock contextRef="FilingDateInstant">
+&lt;h3 class="smt_head2"&gt;３ 【臨時報告書】&lt;/h3&gt;
+&lt;p class="smt_text2"&gt;１の有価証券報告書提出後、本有価証券届出書提出日(平成29年８月４日)までに、金融商品取引法第24条の５第４項及び企業内容等の開示に関する内閣府令第19条第２項第９号の２の規定に基づく臨時報告書を平成29年６月30日に関東財務局長に提出。&lt;/p&gt;
+&lt;p class="smt_text6"&gt; &lt;/p&gt;</jpcrp_cor:ExtraordinarySecuritiesReportReferenceDocumentsTextBlock>
+  <jpcrp_cor:SupplementaryInformationAboutReferenceDocumentsTextBlock contextRef="FilingDateInstant">
+&lt;h2 class="smt_head1"&gt;第２ 【参照書類の補完情報】&lt;/h2&gt;
+&lt;p class="smt_text6"&gt;　&lt;/p&gt;
+&lt;p class="smt_text2"&gt;参照書類である有価証券報告書及び四半期報告書(以下、「有価証券報告書等」といいます。)に記載された「事業等のリスク」について、当該有価証券報告書等の提出日以降、本訂正届出書提出日(平成29年８月10日)までの間に生じた変更その他の事由はありません。&lt;/p&gt;
+&lt;p class="smt_text2" style="text-align:justify;padding-left:9pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-indent:9pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;"&gt;また、当該有価証券報告書等に記載されている将来に関する事項は、本訂正届出書提出日(平成29年８月10日)現在において変更の必要はないと判断しております。&lt;/p&gt;
+&lt;p class="smt_text6"&gt; &lt;/p&gt;</jpcrp_cor:SupplementaryInformationAboutReferenceDocumentsTextBlock>
+  <jpcrp_cor:PlaceForPublicInspectionOfReferenceDocumentsTextBlock contextRef="FilingDateInstant">
+&lt;h2 class="smt_head1"&gt;第３ 【参照書類を縦覧に供している場所】&lt;/h2&gt;
+&lt;p class="smt_text6"&gt; &lt;/p&gt;
+&lt;p class="smt_text2" style="text-align:justify;padding-left:9pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-indent:9pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;"&gt;株式会社東京証券取引所&lt;/p&gt;
+&lt;p class="smt_text2" style="text-align:justify;padding-left:9pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-indent:9pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;"&gt;(東京都中央区日本橋兜町２番１号)&lt;/p&gt;
+&lt;p class="smt_text6"&gt; &lt;/p&gt;
+&lt;p class="smt_text6"&gt; &lt;/p&gt;</jpcrp_cor:PlaceForPublicInspectionOfReferenceDocumentsTextBlock>
+  <jpcrp_cor:InformationAboutCompanyWhichProvidesGuaranteeToReportingCompanyNATextBlock contextRef="FilingDateInstant">
+&lt;h1 class="smt_head1"&gt;第四部 【提出会社の保証会社等の情報】&lt;/h1&gt;
+&lt;p class="smt_text6"&gt; &lt;/p&gt;
+&lt;p class="smt_text2" style="text-align:justify;padding-left:9pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-indent:9pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;"&gt;該当事項はありません。&lt;/p&gt;
+&lt;p class="smt_text6"&gt; &lt;/p&gt;
+&lt;p class="smt_text6" style="text-align:justify;padding-left:0pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;"&gt;　&lt;/p&gt;</jpcrp_cor:InformationAboutCompanyWhichProvidesGuaranteeToReportingCompanyNATextBlock>
+  <jpcrp_cor:RecentFinancialStatementsOrFinancialDocumentsOfGuaranteeCompanyOrTrackedSubsidiaryNATextBlock contextRef="FilingDateInstant">
+&lt;p class="smt_head1" style="padding-left:0pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ ゴシック&amp;apos;;text-align:justify;letter-spacing:0pt;line-height:18pt;font-size:12pt;"&gt;第１ 【保証会社及び連動子会社の最近の財務諸表又は財務書類】&lt;/p&gt;
+&lt;p class="smt_text6"&gt; &lt;/p&gt;
+&lt;p class="smt_text2"&gt;該当事項はありません。&lt;/p&gt;
+&lt;p class="smt_text6"&gt; &lt;/p&gt;</jpcrp_cor:RecentFinancialStatementsOrFinancialDocumentsOfGuaranteeCompanyOrTrackedSubsidiaryNATextBlock>
+</xbrli:xbrl>

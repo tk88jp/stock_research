@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbrli:xbrl xmlns:jpctl_cor="http://disclosure.edinet-fsa.go.jp/taxonomy/jpctl/2013-08-31/jpctl_cor" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xbrli="http://www.xbrl.org/2003/instance" xmlns:jpdei_cor="http://disclosure.edinet-fsa.go.jp/taxonomy/jpdei/2013-08-31/jpdei_cor">
+  <link:schemaRef xlink:type="simple" xlink:href="jpctl010000-icr-001_E00012-000_2016-03-31_01_2016-06-24.xsd"/>
+  <xbrli:context id="FilingDateInstant">
+<xbrli:entity>
+<xbrli:identifier scheme="http://disclosure.edinet-fsa.go.jp">E00012-000</xbrli:identifier>
+</xbrli:entity>
+<xbrli:period>
+<xbrli:instant>2016-06-24</xbrli:instant>
+</xbrli:period>
+</xbrli:context>
+  <xbrli:unit id="pure">
+<xbrli:measure>xbrli:pure</xbrli:measure>
+</xbrli:unit>
+  <jpdei_cor:NumberOfSubmissionDEI contextRef="FilingDateInstant" unitRef="pure" decimals="0">1</jpdei_cor:NumberOfSubmissionDEI>
+  <jpctl_cor:DocumentTitleCoverPage contextRef="FilingDateInstant">内部統制報告書</jpctl_cor:DocumentTitleCoverPage>
+  <jpctl_cor:ClauseOfStipulationCoverPage contextRef="FilingDateInstant">金融商品取引法第24条の４の４第１項</jpctl_cor:ClauseOfStipulationCoverPage>
+  <jpctl_cor:PlaceOfFilingCoverPage contextRef="FilingDateInstant">関東財務局長</jpctl_cor:PlaceOfFilingCoverPage>
+  <jpctl_cor:FilingDateCoverPage contextRef="FilingDateInstant">2016-06-24</jpctl_cor:FilingDateCoverPage>
+  <jpctl_cor:CompanyNameCoverPage contextRef="FilingDateInstant">株式会社　極洋</jpctl_cor:CompanyNameCoverPage>
+  <jpctl_cor:CompanyNameInEnglishCoverPage contextRef="FilingDateInstant">KYOKUYO CO.,LTD.</jpctl_cor:CompanyNameInEnglishCoverPage>
+  <jpctl_cor:TitleAndNameOfRepresentativeCoverPage contextRef="FilingDateInstant">代表取締役社長　今　井　賢　司</jpctl_cor:TitleAndNameOfRepresentativeCoverPage>
+  <jpctl_cor:TitleAndNameOfChiefFinancialOfficerCoverPageNA xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpctl_cor:AddressOfRegisteredHeadquarterCoverPage contextRef="FilingDateInstant">東京都港区赤坂三丁目３番５号</jpctl_cor:AddressOfRegisteredHeadquarterCoverPage>
+  <jpctl_cor:PlaceForPublicInspectionCoverPageTextBlock contextRef="FilingDateInstant">&lt;p class="smt_tblL" style="text-align:justify;padding-left:0pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:18pt;font-size:10.5pt;"&gt;株式会社　東京証券取引所&lt;br/&gt;　(東京都中央区日本橋兜町２番１号)&lt;/p&gt;</jpctl_cor:PlaceForPublicInspectionCoverPageTextBlock>
+  <jpdei_cor:EDINETCodeDEI contextRef="FilingDateInstant">E00012</jpdei_cor:EDINETCodeDEI>
+  <jpdei_cor:FundCodeDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:SecurityCodeDEI contextRef="FilingDateInstant">13010</jpdei_cor:SecurityCodeDEI>
+  <jpdei_cor:FilerNameInJapaneseDEI contextRef="FilingDateInstant">株式会社極洋</jpdei_cor:FilerNameInJapaneseDEI>
+  <jpdei_cor:FilerNameInEnglishDEI contextRef="FilingDateInstant">KYOKUYO CO.,LTD.</jpdei_cor:FilerNameInEnglishDEI>
+  <jpdei_cor:FundNameInJapaneseDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:FundNameInEnglishDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:CabinetOfficeOrdinanceDEI contextRef="FilingDateInstant">財務計算に関する書類その他の情報の適正性を確保するための体制に関する内閣府令</jpdei_cor:CabinetOfficeOrdinanceDEI>
+  <jpdei_cor:DocumentTypeDEI contextRef="FilingDateInstant">第一号様式</jpdei_cor:DocumentTypeDEI>
+  <jpdei_cor:AccountingStandardsDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:WhetherConsolidatedFinancialStatementsArePreparedDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:IndustryCodeWhenConsolidatedFinancialStatementsArePreparedInAccordanceWithIndustrySpecificRegulationsDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:IndustryCodeWhenFinancialStatementsArePreparedInAccordanceWithIndustrySpecificRegulationsDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:CurrentFiscalYearStartDateDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:CurrentPeriodEndDateDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:TypeOfCurrentPeriodDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:CurrentFiscalYearEndDateDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:PreviousFiscalYearStartDateDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:ComparativePeriodEndDateDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:PreviousFiscalYearEndDateDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:NextFiscalYearStartDateDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:EndDateOfQuarterlyOrSemiAnnualPeriodOfNextFiscalYearDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:AmendmentFlagDEI contextRef="FilingDateInstant">false</jpdei_cor:AmendmentFlagDEI>
+  <jpdei_cor:IdentificationOfDocumentSubjectToAmendmentDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:ReportAmendmentFlagDEI contextRef="FilingDateInstant">false</jpdei_cor:ReportAmendmentFlagDEI>
+  <jpdei_cor:XBRLAmendmentFlagDEI contextRef="FilingDateInstant">false</jpdei_cor:XBRLAmendmentFlagDEI>
+  <jpctl_cor:BasicFrameworkOfInternalControlRelatedToFinancialReportingTextBlock contextRef="FilingDateInstant">&lt;p class="smt_text6" style="font-size:10.5pt;"&gt;　代表取締役社長である今井賢司は、当社および連結子会社（以下「当社グループ」）の財務報告に係る内部統制の整備及び運用に責任を有しており、企業会計審議会の公表した「財務報告に係る内部統制の評価及び監査の基準並びに財務報告に係る内部統制の評価及び監査に関する実施基準の改訂について（意見書）」に示されている内部統制の基本的枠組みに準拠して、財務報告に係る内部統制を整備及び運用しております。&lt;/p&gt;&lt;p class="smt_text6" style="font-size:10.5pt;"&gt;　なお、内部統制は内部統制の各基本的要素が有機的に結びつき、一体となって機能することで、その目的を合理的な範囲で達成しようとするものであります。このため、財務報告に係る内部統制により、財務報告の虚偽の記載を完全には防止又は発見することができない可能性があります。&lt;/p&gt;&lt;p class="smt_text6"&gt; &lt;/p&gt;</jpctl_cor:BasicFrameworkOfInternalControlRelatedToFinancialReportingTextBlock>
+  <jpctl_cor:ScopeDateAndProceduresForEvaluationTextBlock contextRef="FilingDateInstant">&lt;p class="smt_text6" style="text-align:justify;padding-left:0pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;font-size:10.5pt;"&gt;　財務報告に係る内部統制の評価は、当事業年度の末日である平成28年３月31日を基準日として行い、評価に当たっては、わが国において一般に公正妥当と認められる財務報告に係る内部統制の評価の基準に準拠しました。&lt;/p&gt;&lt;p class="smt_text6" style="text-align:justify;padding-left:0pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;font-size:10.5pt;"&gt;　評価の範囲は、当社グループについて、財務報告の信頼性に及ぼす影響の重要性の観点から必要な範囲を評価の対象といたしました。&lt;/p&gt;&lt;p class="smt_text6" style="text-align:justify;padding-left:0pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;font-size:10.5pt;"&gt;　財務報告全体に重要な影響を及ぼす内部統制（以下「全社的な内部統制」）及び決算・財務報告に係る業務プロセスのうち、全社的な観点で評価することが適切と考えられるものについては、重要な事業拠点について評価の対象とし、評価対象となる内部統制全体を適切に理解及び分析した上で、関係者への質問、記録の検証等の手続きを実施することにより、内部統制の整備及び運用状況並びにその状況が業務プロセスに係る内部統制に及ぼす影響の程度を評価いたしました。&lt;/p&gt;&lt;p class="smt_text6" style="text-align:justify;padding-left:0pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:15pt;font-size:10.5pt;"&gt;　また業務プロセスについては、財務報告に対する金額的及び質的影響の重要性を考慮し、上記の全社的な内部統制の評価結果を踏まえ、連結売上高を指標に、その概ね２/３程度の割合に達している事業拠点を重要な事業拠点として選定し、それらの事業拠点における、当社グループの事業目的に大きく関わる勘定科目に至る業務プロセスを評価の対象としました。さらに、財務報告への影響を勘案して、重要性の大きい業務プロセスについては、個別に評価の対象に追加いたしました。評価の対象とした業務プロセスについては、それぞれのプロセスを分析した上で、財務報告の信頼性に重要な影響を及ぼす統制上の要点を選定し、関連文書の閲覧、当該内部統制に関係する適切な担当者への質問、業務の観察、内部統制の実施記録の検証等の手続きを実施することにより、当該統制上の要点の整備及び運用状況を評価いたしました。&lt;/p&gt;&lt;p class="smt_text6"&gt; &lt;/p&gt;</jpctl_cor:ScopeDateAndProceduresForEvaluationTextBlock>
+  <jpctl_cor:ResultOfEvaluationTextBlock contextRef="FilingDateInstant">&lt;p class="smt_text6" style="font-size:10.5pt;"&gt;　上記の評価手続を実施した結果、当事業年度末において、当社グループの財務報告に係る内部統制は有効であると判断いたしました。&lt;/p&gt;&lt;p class="smt_text6"&gt; &lt;/p&gt;</jpctl_cor:ResultOfEvaluationTextBlock>
+  <jpctl_cor:SupplementaryInformationNA contextRef="FilingDateInstant">財務報告に係る内部統制の有効性の評価に重要な影響を及ぼす後発事象等はありません。</jpctl_cor:SupplementaryInformationNA>
+  <jpctl_cor:OtherInformationForSpecialAttentionNA contextRef="FilingDateInstant">該当事項はありません。</jpctl_cor:OtherInformationForSpecialAttentionNA>
+</xbrli:xbrl>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbrli:xbrl xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xbrli="http://www.xbrl.org/2003/instance" xmlns:jpdei_cor="http://disclosure.edinet-fsa.go.jp/taxonomy/jpdei/2013-08-31/jpdei_cor" xmlns:jpcrp-esr_cor="http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp-esr/2015-04-30/jpcrp-esr_cor" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <link:schemaRef xlink:type="simple" xlink:href="jpcrp050300-esr-001_E03276-000_2016-06-10_01_2016-06-10.xsd"/>
+  <xbrli:context id="FilingDateInstant">
+<xbrli:entity>
+<xbrli:identifier scheme="http://disclosure.edinet-fsa.go.jp">E03276-000</xbrli:identifier>
+</xbrli:entity>
+<xbrli:period>
+<xbrli:instant>2016-06-10</xbrli:instant>
+</xbrli:period>
+</xbrli:context>
+  <xbrli:unit id="pure">
+<xbrli:measure>xbrli:pure</xbrli:measure>
+</xbrli:unit>
+  <jpdei_cor:NumberOfSubmissionDEI contextRef="FilingDateInstant" unitRef="pure" decimals="0">1</jpdei_cor:NumberOfSubmissionDEI>
+  <jpcrp-esr_cor:DocumentTitleCoverPage contextRef="FilingDateInstant">臨時報告書</jpcrp-esr_cor:DocumentTitleCoverPage>
+  <jpcrp-esr_cor:PlaceOfFilingCoverPage contextRef="FilingDateInstant">関東財務局長</jpcrp-esr_cor:PlaceOfFilingCoverPage>
+  <jpcrp-esr_cor:FilingDateCoverPage contextRef="FilingDateInstant">2016-06-10</jpcrp-esr_cor:FilingDateCoverPage>
+  <jpcrp-esr_cor:CompanyNameCoverPage contextRef="FilingDateInstant">アールビバン株式会社</jpcrp-esr_cor:CompanyNameCoverPage>
+  <jpcrp-esr_cor:CompanyNameInEnglishCoverPage contextRef="FilingDateInstant">ART VIVANT CO.,LTD.</jpcrp-esr_cor:CompanyNameInEnglishCoverPage>
+  <jpcrp-esr_cor:TitleAndNameOfRepresentativeCoverPage contextRef="FilingDateInstant">代表取締役社長　岩本　一也</jpcrp-esr_cor:TitleAndNameOfRepresentativeCoverPage>
+  <jpcrp-esr_cor:AddressOfRegisteredHeadquarterCoverPage contextRef="FilingDateInstant">東京都品川区東品川四丁目13番14号</jpcrp-esr_cor:AddressOfRegisteredHeadquarterCoverPage>
+  <jpcrp-esr_cor:TelephoneNumberCoverPage contextRef="FilingDateInstant">03－5783－7171（代表）</jpcrp-esr_cor:TelephoneNumberCoverPage>
+  <jpcrp-esr_cor:NameOfContactPersonCoverPage contextRef="FilingDateInstant">取締役管理部長　樋口　弘司</jpcrp-esr_cor:NameOfContactPersonCoverPage>
+  <jpcrp-esr_cor:NearestPlaceOfContactCoverPage contextRef="FilingDateInstant">東京都品川区東品川四丁目13番14号</jpcrp-esr_cor:NearestPlaceOfContactCoverPage>
+  <jpcrp-esr_cor:TelephoneNumberNearestPlaceOfContactCoverPage contextRef="FilingDateInstant">03－5783－7171（代表）</jpcrp-esr_cor:TelephoneNumberNearestPlaceOfContactCoverPage>
+  <jpcrp-esr_cor:NameOfContactPersonNearestPlaceOfContactCoverPage contextRef="FilingDateInstant">取締役管理部長　樋口　弘司</jpcrp-esr_cor:NameOfContactPersonNearestPlaceOfContactCoverPage>
+  <jpcrp-esr_cor:PlaceForPublicInspectionCoverPageTextBlock contextRef="FilingDateInstant">
+&lt;p style="margin-top: 3px; text-align: left"&gt;
+&lt;span style="font-family: &amp;apos;MS Mincho&amp;apos;; font-size: 12px"&gt;株式会社東京証券取引所&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="margin-bottom: 3px; text-align: left"&gt;
+&lt;span style="font-family: &amp;apos;MS Mincho&amp;apos;; font-size: 12px"&gt;（東京都中央区日本橋兜町２番１号）&lt;/span&gt;
+&lt;/p&gt;
+</jpcrp-esr_cor:PlaceForPublicInspectionCoverPageTextBlock>
+  <jpdei_cor:EDINETCodeDEI contextRef="FilingDateInstant">E03276</jpdei_cor:EDINETCodeDEI>
+  <jpdei_cor:FundCodeDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:SecurityCodeDEI contextRef="FilingDateInstant">75230</jpdei_cor:SecurityCodeDEI>
+  <jpdei_cor:FilerNameInJapaneseDEI contextRef="FilingDateInstant">アールビバン株式会社</jpdei_cor:FilerNameInJapaneseDEI>
+  <jpdei_cor:FilerNameInEnglishDEI contextRef="FilingDateInstant">ART VIVANT CO.,LTD.</jpdei_cor:FilerNameInEnglishDEI>
+  <jpdei_cor:FundNameInJapaneseDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:FundNameInEnglishDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:CabinetOfficeOrdinanceDEI contextRef="FilingDateInstant">企業内容等の開示に関する内閣府令</jpdei_cor:CabinetOfficeOrdinanceDEI>
+  <jpdei_cor:DocumentTypeDEI contextRef="FilingDateInstant">第五号の三様式</jpdei_cor:DocumentTypeDEI>
+  <jpdei_cor:AccountingStandardsDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:WhetherConsolidatedFinancialStatementsArePreparedDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:IndustryCodeWhenConsolidatedFinancialStatementsArePreparedInAccordanceWithIndustrySpecificRegulationsDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:IndustryCodeWhenFinancialStatementsArePreparedInAccordanceWithIndustrySpecificRegulationsDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:CurrentFiscalYearStartDateDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:CurrentPeriodEndDateDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:TypeOfCurrentPeriodDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:CurrentFiscalYearEndDateDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:PreviousFiscalYearStartDateDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:ComparativePeriodEndDateDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:PreviousFiscalYearEndDateDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:NextFiscalYearStartDateDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:EndDateOfQuarterlyOrSemiAnnualPeriodOfNextFiscalYearDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:AmendmentFlagDEI contextRef="FilingDateInstant">false</jpdei_cor:AmendmentFlagDEI>
+  <jpdei_cor:IdentificationOfDocumentSubjectToAmendmentDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:ReportAmendmentFlagDEI contextRef="FilingDateInstant">false</jpdei_cor:ReportAmendmentFlagDEI>
+  <jpdei_cor:XBRLAmendmentFlagDEI contextRef="FilingDateInstant">false</jpdei_cor:XBRLAmendmentFlagDEI>
+  <jpcrp-esr_cor:ReasonForFilingTextBlock contextRef="FilingDateInstant">
+&lt;h3&gt;１【提出理由】&lt;/h3&gt;
+&lt;p style="margin-left: 12px; text-align: left"&gt;
+&lt;span style="font-size: 12px"&gt;　当社は、金融商品取引法第193条の２第１項及び第２項の監査証明を行う監査公認会計士等の異動について、平成28年５月12日開催の監査役会において、監査公認会計士等の選任を決議いたしましたので、金融商品取引法第24条の５第４項及び企業内容等の開示に関する内閣府令第19条第２項第９号の４の規定に基づき、本臨時報告書を提出するものであります。&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="text-align: left"&gt; &lt;/p&gt;
+</jpcrp-esr_cor:ReasonForFilingTextBlock>
+  <jpcrp-esr_cor:ChangeInIndependentAuditorsTextBlock contextRef="FilingDateInstant">
+&lt;h3&gt;２【報告内容】&lt;/h3&gt;
+&lt;p style="margin-left: 12px; text-align: left"&gt;
+&lt;span style="font-family: &amp;apos;MS Mincho&amp;apos;; font-size: 12px"&gt;(1）異動に係る監査公認会計士等の名称&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="margin-left: 24px; text-align: left"&gt;
+&lt;span style="font-family: &amp;apos;MS Mincho&amp;apos;; font-size: 12px"&gt;①　選任する監査公認会計士等の名称&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="margin-left: 48px; text-align: left"&gt;
+&lt;span style="font-family: &amp;apos;MS Mincho&amp;apos;; font-size: 12px"&gt;明治アーク監査法人&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="margin-left: 24px; text-align: left"&gt;
+&lt;span style="font-family: &amp;apos;MS Mincho&amp;apos;; font-size: 12px"&gt;②　退任する監査公認会計士等の名称&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="margin-left: 48px; text-align: left"&gt;
+&lt;span style="font-family: &amp;apos;MS Mincho&amp;apos;; font-size: 12px"&gt;優成監査法人&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="text-align: left"&gt; &lt;/p&gt;
+&lt;p style="margin-left: 12px; text-align: left"&gt;
+&lt;span style="font-family: &amp;apos;MS Mincho&amp;apos;; font-size: 12px"&gt;(2）異動の年月日&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="margin-left: 36px; text-align: left"&gt;
+&lt;span style="font-family: &amp;apos;MS Mincho&amp;apos;; font-size: 12px"&gt;平成28年６月24日&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="text-align: left"&gt; &lt;/p&gt;
+&lt;p style="margin-left: 12px; text-align: left"&gt;
+&lt;span style="font-family: &amp;apos;MS Mincho&amp;apos;; font-size: 12px"&gt;(3）退任する監査公認会計士等が直近において監査公認会計士等となった年月日&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="margin-left: 36px; text-align: left"&gt;
+&lt;span style="font-family: &amp;apos;MS Mincho&amp;apos;; font-size: 12px"&gt;平成21年６月26日&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="text-align: left"&gt; &lt;/p&gt;
+&lt;p style="margin-left: 12px; text-align: left"&gt;
+&lt;span style="font-family: &amp;apos;MS Mincho&amp;apos;; font-size: 12px"&gt;(4）退任する監査公認会計士等が直近３年間に作成した監査報告書等における意見等に関する事項&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="margin-left: 24px; text-align: left"&gt;
+&lt;span style="font-family: &amp;apos;MS Mincho&amp;apos;; font-size: 12px"&gt;　該当事項はありません。&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="text-align: left"&gt; &lt;/p&gt;
+&lt;p style="margin-left: 12px; text-align: left"&gt;
+&lt;span style="font-family: &amp;apos;MS Mincho&amp;apos;; font-size: 12px"&gt;(5）異動の決定又は異動に至った理由及び経緯&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="margin-left: 36px; line-height: 21.3333339691162px; text-align: justify; text-justify: inter-ideograph; text-indent: 13.3333330154419px"&gt;
+&lt;span style="font-size: 12px"&gt;当社の&lt;/span&gt;&lt;span style="font-family: &amp;apos;MS Mincho&amp;apos;; font-size: 12px; font-weight: normal"&gt;監査公認会計士等&lt;/span&gt;&lt;span style="font-size: 12px"&gt;であります優成監査法人は平成28年６月24日開催予定の第32期定時株主総会終結の時をもって任期満了となります。これに伴い、当社は&lt;/span&gt;&lt;span style="font-family: &amp;apos;MS Mincho&amp;apos;; font-size: 12px; font-weight: normal"&gt;監査公認会計士等&lt;/span&gt;&lt;span style="font-size: 12px"&gt;の見直しを行ったことによります。&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="margin-left: 12px; text-align: left"&gt; &lt;/p&gt;
+&lt;p style="margin-left: 12px; text-align: left"&gt;
+&lt;span style="font-family: &amp;apos;MS Mincho&amp;apos;; font-size: 12px; font-weight: normal"&gt;(6）上記(5)の理由及び経緯に対する監査報告書等の記載事項に係る退任する監査公認会計士等の意見&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="margin-left: 24px; text-align: left"&gt;
+&lt;span style="font-family: &amp;apos;MS Mincho&amp;apos;; font-size: 12px"&gt;　該当事項はありません。&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="text-align: left"&gt; &lt;/p&gt;
+&lt;p style="text-align: right"&gt;以　上&lt;/p&gt;
+</jpcrp-esr_cor:ChangeInIndependentAuditorsTextBlock>
+</xbrli:xbrl>
