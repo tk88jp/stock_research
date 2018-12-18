@@ -10,6 +10,8 @@ from edinet_xbrl.edinet_xbrl_parser import EdinetXbrlParser
 import os
 import time
 import glob
+import pandas as pd
+import numpy as np
 
 
 data_dir = os.path.dirname(os.path.abspath(__file__))
@@ -69,6 +71,8 @@ def value_pickup(ticker):
     context_ref = "CurrentYearInstant"
     current_year_assets = edinet_xbrl_object.get_data_by_context_ref(key, context_ref).get_value()
     
+    current_year_assets = np.array([int(current_year_assets)])
+    
     #保存
     output_dir = data_dir + '/output'
     os.chdir(output_dir)
@@ -77,6 +81,8 @@ def value_pickup(ticker):
     except FileExistsError:
         pass    
     os.chdir(output_dir + '/' + ticker)    
+    
+    np.savetxt(ticker+'.txt', current_year_assets)
     
     return current_year_assets
 
