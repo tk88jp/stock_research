@@ -68,7 +68,7 @@ def value_pickup(ticker):
     
     ## 例えば、該当年度の総資産を取ってみる
     key = "jppfs_cor:Assets"
-    context_ref = "CurrentYearInstant"
+    context_ref = "Prior1YearInstant"#CurrentYearInstant
     current_year_assets = edinet_xbrl_object.get_data_by_context_ref(key, context_ref).get_value()
     
     current_year_assets = np.array([int(current_year_assets)])
